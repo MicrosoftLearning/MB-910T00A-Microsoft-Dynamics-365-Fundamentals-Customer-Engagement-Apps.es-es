@@ -1,19 +1,24 @@
 ---
 lab:
-    title: 'Laboratorio 3.2: Crear y administrar casos en Dynamics 365 Customer Service'
-    module: 'Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service'
+  title: 'Laboratorio 3.2: Crear y administrar casos en Dynamics 365 Customer Service'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+ms.openlocfilehash: 246ffc81d2edbffcfc809e242757784acdcccb0d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909098"
 ---
-
-Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Módulo 3: Aspectos básicos de Dynamics 365 Customer Service
 ========================
 
-## Laboratorio de prácticas 3.2: Crear y administrar casos en Dynamics 365 Customer Service
+## <a name="practice-lab-32---create-and-manage-cases-in-dynamics-365-customer-service"></a>Laboratorio de prácticas 3.2: Crear y administrar casos en Dynamics 365 Customer Service
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
-  - **Tiempo estimado**: 10 minutos
+  - **Tiempo estimado**: 10 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
 1. Si aún no lo ha hecho, abra la aplicación **Dynamics 365 Customer Service Hub**. 
 
@@ -23,11 +28,11 @@ Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service
 
 4. Complete su nuevo registro de caso de la siguiente manera:
 
-	- **Título del caso:** Artículo ha llegado dañado - sus iniciales
+    - **Título del caso:** Artículo ha llegado dañado - sus iniciales
 
-	- **Cliente:** Alpine Ski House
+    - **Cliente:** Alpine Ski House
 
-	- **Origen:** Teléfono
+    - **Origen:** Phone
 
 5. Haga clic en el botón **Guardar** para guardar el registro y dejarlo abierto. 
 

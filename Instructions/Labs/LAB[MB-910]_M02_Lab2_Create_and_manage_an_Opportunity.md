@@ -1,24 +1,29 @@
 ---
 lab:
-    title: 'Laboratorio 2.2: Crear y administrar una oportunidad en Dynamics 365 Sales'
-    module: 'Módulo 2: Aprender los fundamentos de Dynamics 365 Sales'
+  title: 'Laboratorio 2.2: Crear y administrar una oportunidad en Dynamics 365 Sales'
+  module: 'Module 2: Learn the Fundamentals of Dynamics 365 Sales'
+ms.openlocfilehash: c37f7dd95495b7c8ecb08af925acba05bded6b2b
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909088"
 ---
-
-Módulo 2: Aprender los fundamentos de Dynamics 365 Sales
+<a name="module-2-learn-the-fundamentals-of-dynamics-365-sales"></a>Módulo 2: Aspectos básicos de Dynamics 365 Sales
 ========================
 
-## Laboratorio de prácticas 2.2: Crear y administrar una oportunidad en Dynamics 365 Sales 
+## <a name="practice-lab-22---create-and-manage-an-opportunity-in-dynamics-365-sales"></a>Laboratorio de prácticas 2.2: Crear y administrar una oportunidad en Dynamics 365 Sales 
 
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 Durante este ejercicio, recopilará manualmente una oportunidad de ventas para un cliente existente llamado Jim Glynn. Trabaja para una empresa llamada Adventure Work. No solo incluirá la oportunidad en el sistema, sino que usará las herramientas disponibles en Dynamics 365 Sales para trabajar en la oportunidad y cerrarla.
 
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
   - **Tiempo estimado**: 25 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
 En este ejercicio, se familiarizará con la forma de acceder a las aplicaciones de Dynamics 365 Customer Engagement mediante la página de inicio de Dynamics 365. 
 
@@ -30,25 +35,25 @@ En este ejercicio, se familiarizará con la forma de acceder a las aplicaciones 
 
 4. Rellene la información sobre la oportunidad como sigue:
 
-	- **Tema:** Quiere actualizar su equipo actual – Sus iniciales
+    - **Tema:** Quiere actualizar su equipo actual – Sus iniciales
 
-	- **Contacto:** Jay Klein
+    - **Contacto:** Jay Klein
 
-	- **Cuenta:** Northwind Traders
+    - **Cuenta:** Northwind Traders
 
-	- **Calendario de compra:** Este trimestre
+    - **Calendario de compra:** Este trimestre
 
-	- **Presupuesto:** 50.000
+    - **Presupuesto:** 50 000 $
 
-	- **Proceso de compra:** Individual
+    - **Proceso de compra:** Individual
 
 5. En el **Encabezado de nueva oportunidad** en la parte superior del registro, seleccione la flecha hacia abajo junto al campo del propietario. 
 
-6. Complete los siguientes pasos:
+6. Realice los pasos siguientes:
 
-	- **Fecha de cierre estimada:** Dentro de dos días
+    - **Fecha de cierre estimada:** Dentro de dos días
 
-	- **Beneficios estimados:** 50.000
+    - **Ingresos estimados:** 50 000 USD
 
 7. En la parte superior de la **Barra de comandos**, seleccione el botón **Guardar y cerrar**. 
 
@@ -58,15 +63,15 @@ En este ejercicio, se familiarizará con la forma de acceder a las aplicaciones 
 
 10. En el **encabezado de la oportunidad Búsqueda de nuevo equipamiento**, en la parte superior del registro, seleccione la flecha hacia abajo junto al campo del propietario. 
 
-11. Complete los siguientes pasos:
+11. Realice los pasos siguientes:
 
-	- **Fecha de cierre estimada:** mañana
+    - **Fecha de cierre estimada:** mañana
 
-	- **Beneficios estimados:** 70.000
+    - **Ingresos estimados:** 70 000
 
 12. En la subcuadrícula de partes interesadas, observe que Suzanne Burke ya está definida como parte interesada. 
 
-13. En la subcuadrícula de equipo de ventas, seleccione los **puntos suspensivos verticales**. En el menú que aparece, seleccione **Nueva conexión**. 
+13. En la subcuadrícula de equipo de ventas, seleccione los **Puntos suspensivos verticales**. En el menú que aparece, seleccione **Nueva conexión**. 
 
 14. Busque y seleccione su registro de usuario. Una vez completado, haga clic en el botón **Agregar**. 
 

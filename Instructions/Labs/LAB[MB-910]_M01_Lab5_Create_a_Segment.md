@@ -1,28 +1,33 @@
 ---
 lab:
-    title: 'Laboratorio 1.5: Crear un segmento en Dynamics 365 Marketing'
-    module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'
+  title: 'Laboratorio 1.5: Crear un segmento en Dynamics 365 Marketing'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 5f75e433fe8d38d32000c7de20878e3b471f0fca
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909008"
 ---
-
-Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Módulo 1: Aspectos básicos de Dynamics 365 Marketing
 ========================
 
-## Laboratorio de prácticas 1.5: Crear un segmento en Dynamics 365 Marketing
+## <a name="practice-lab-15---create-a-segment-in-dynamics-365-marketing"></a>Laboratorio de prácticas 1.5: Crear un segmento en Dynamics 365 Marketing
 
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 Durante el ejercicio verá que es muy fácil crear segmentos de clientes que tienen como objetivo contactos específicos en función de información demográfica común, como dónde viven o sus intereses. La creación de segmentos de clientes en Dynamics 365 Marketing es muy habitual porque los segmentos de clientes se utilizan para actividades clave de marketing, como definir los contactos de destino en recorridos del cliente.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
   - **Tiempo estimado**: 20 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
 
 1. Abra la aplicación Dynamics Marketing. Se debe seleccionar el área **Marketing**. Seleccione **Segmentos** en **Clientes**.
 
-2. En la Barra de comandos, seleccione **Nuevo**.
+2. En la barra de comandos, haga clic en **Nuevo**.
 
 3. En el menú desplegable que aparece, seleccione **Nuevo segmento dinámico**.
 

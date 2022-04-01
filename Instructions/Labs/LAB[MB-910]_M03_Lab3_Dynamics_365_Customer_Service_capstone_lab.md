@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Laboratorio 3.3: Laboratorio final de Dynamics 365 Customer Service'
-    module: 'Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service'
+  title: 'Laboratorio 3.3: Laboratorio final de Dynamics 365 Customer Service'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+ms.openlocfilehash: 85f3778dd9ab66a52bdfe2a5a77ad71ccb55544d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909107"
 ---
-
-Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Módulo 3: Aspectos básicos de Dynamics 365 Customer Service
 ========================
 
-## Laboratorio de prácticas 3.3: Laboratorio final de Dynamics 365 Customer Service
+## <a name="practice-lab-33---dynamics-365-customer-service-capstone-lab"></a>Laboratorio de prácticas 3.3: Laboratorio final de Dynamics 365 Customer Service
 
-## Escenario de laboratorio
+## <a name="lab-scenario"></a>Escenario de laboratorio
 
 La compañía ABC está especializada en la fabricación, venta, instalación y reparaciones de equipos de seguridad. Sus productos incluyen cámaras de seguridad para interiores y exteriores, sensores de humedad e incendios, servicios de supervisión y más. 
 
@@ -37,11 +42,11 @@ el proceso de instalación del equipo de seguridad comprado varía en función d
 
 - **Clientes empresariales:** las implementaciones en empresas pueden llevar meses y se requiere un director del proyecto para supervisar las operaciones del día a día. Esto incluye la creación de planes de proyecto, definición de equipos de proyecto y la programación de recursos. 
 
-**Servicio y soporte:**
+**Servicio y soporte técnico:**
 
 una vez instalados los sistemas, la compañía ABC proporciona soporte posventa. Si un cliente tiene un problema, puede contactar con soporte al cliente. Un agente trabajará con el cliente de forma remota para resolver el problema. Si el problema no se puede resolver de forma remota, el agente de soporte puede escalar el problema a una orden de trabajo que se asignará a un técnico de servicio cualificado para que se encargue de ella. 
 
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 A menudo, los clientes pueden tener problemas con su equipo. Si tienen problemas, estos se notifican al equipo de soporte de la compañía ABC. Los problemas se pueden notificar de varias maneras. En algunos casos, el equipo puede notificar problemas de forma proactiva. A medida que se notifican los problemas, los agentes intentan resolverlos de forma remota. Si no es posible, se enviará un técnico de servicio para resolver el problema. Últimamente ha estado arreglando muchos sensores que se habían apagado. Se ha dado cuenta de que se debía a un error del software. Quiere crear un artículo de conocimientos al que otros agentes puedan recurrir si se encuentran con el mismo problema. 
 
@@ -57,15 +62,15 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 - Administrar un registro de caso en su ciclo de vida 
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
   - **Tiempo estimado**: 45 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
-## Ejercicio 1: Crear y publicar un artículo de conocimientos
+## <a name="exercise-1-create-and-publish-a-knowledge-article"></a>Ejercicio 1: Crear y publicar un artículo de conocimientos
 
-### Tarea 1: Crear un artículo de conocimientos
+### <a name="task-1-create-a-knowledge-article"></a>Tarea 1: Crear un artículo de conocimientos
 
 1. Si aún no lo ha hecho, abra la aplicación **Dynamics 365 Customer Service Hub**. 
 
@@ -83,29 +88,29 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 8. Complete el artículo del siguiente modo:
 
-	- **Título:** Sensor no funciona - sus iniciales
+    - **Título:** Sensor no funciona - sus iniciales
 
-	- **Palabras clave:** Sensor, dañado, no funciona
+    - **Palabras clave:** Sensor, dañado, no funciona
 
-	- **Descripción:** Ayuda a resolver escenarios en los que un sensor no funciona. 
+    - **Descripción:** Ayuda a resolver escenarios en los que un sensor no funciona. 
 
 9. Escriba el siguiente texto en el **diseñador de contenido**.   
 
-	El sensor no funciona.
+    El sensor no funciona.
 
-	Cuando un sensor no funcione como debería, haga lo siguiente:
+    Cuando un sensor no funcione como debería, haga lo siguiente:
 
-	1. Localice y cambie las pilas del dispositivo. 
+    1. Localice y cambie las pilas del dispositivo. 
 
-	2. Mantenga presionado el botón de encendido durante 3 segundos. 
+    2. Mantenga presionado el botón de encendido durante 3 segundos. 
 
-	3. El dispositivo se abrirá en modo administrador. 
+    3. El dispositivo se abrirá en modo administrador. 
 
-	4. Mantenga presionado el botón de emparejar hasta que la luz cambie de rojo a azul. 
+    4. Mantenga presionado el botón de emparejar hasta que la luz cambie de rojo a azul. 
 
-	5. Presione el botón restablecer. 
+    5. Presione el botón restablecer. 
 
-	Una vez que se reinicie el dispositivo, volverá a estar en línea. 
+    Una vez que se reinicie el dispositivo, volverá a estar en línea. 
 
 10. En el editor de contenido, seleccione el texto de “el sensor no funciona”.
 
@@ -123,7 +128,7 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
  
 
-### Tarea 2: Administrar un artículo mediante el proceso de aprobación
+### <a name="task-2-manage-an-article-through-the-approval-process"></a>Tarea 2: Administrar un artículo mediante el proceso de aprobación
 
 En la mayoría de organizaciones, después de que el autor cree el registro, pasará por un proceso de aprobación antes de su publicación. La mayoría de las veces esto lo hace otra persona. Para este ejercicio, actuaremos como aprobador. 
 
@@ -137,7 +142,7 @@ En la mayoría de organizaciones, después de que el autor cree el registro, pas
 
 5. Seleccione el botón **Rechazar**.
 
-6. Seleccione **Guardar y cerrar** para cerrar el registro del artículo.
+6. Seleccione **Guardar &amp; cerrar** para cerrar el registro del artículo.
 
 7. Use el **selector de vista** para cambiar la vista a **Mis artículos activos**. 
 
@@ -155,7 +160,7 @@ En la mayoría de organizaciones, después de que el autor cree el registro, pas
 
 14. Escriba el texto "Pulse el botón Confirmar". 
 
-15. En la **Barra de comandos**, seleccione el botón **Guardar y cerrar**.
+15. En la **Barra de comandos**, seleccione el botón **Guardar &amp; cerrar**.
 
 16. En el **selector de vista**, cambie a **Artículos propuestos**.
 
@@ -168,7 +173,7 @@ En la mayoría de organizaciones, después de que el autor cree el registro, pas
 20. Se le pedirá confirmación de la aprobación del artículo, seleccione **Aceptar**. 
 
 
-### Tarea 3: Aprobar el artículo de conocimientos
+### <a name="task-3-approve-the-knowledge-article"></a>Tarea 3: Aprobar el artículo de conocimientos
 
 Ahora que el artículo está aprobado, lo publicaremos para que esté disponible para otras personas que trabajan en casos. 
 
@@ -184,23 +189,23 @@ Ahora que el artículo está aprobado, lo publicaremos para que esté disponible
 
 6. Confirme que está seleccionado lo siguiente:
 
-	- **Publicar:** Ahora
+    - **Publicar:** Actuales
 
-	- **Estado de publicación:** Publicado
+    - **Estado de publicación:** Publicado
 
-	- **Fecha de expiración:** Un año a partir de hoy a las 0:00
+    - **Fecha de expiración:** Un año a partir de hoy a las 0:00
 
-	- **Estado de expiración:** Expirada
+    - **Estado de expiración:** Expirada
 
-	- **Estado de expiración:** Expirada
+    - **Estado de expiración:** Expirada
 
 7. Haga clic en el botón **Publicar** para publicar el artículo.
 
 
-## Ejercicio 2: Administrar un caso de soporte en su ciclo de vida
+## <a name="exercise-2-manage-a-support-case-through-its-lifecycle"></a>Ejercicio 2: Administrar un caso de soporte en su ciclo de vida
 
 
-### Tarea 1: Crear y administrar un caso
+### <a name="task-1-create-and-manage-a-case"></a>Tarea 1: Crear y administrar un caso
 
 1. Si aún no lo ha hecho, abra la aplicación **Dynamics 365 Customer Service Hub**. 
 
@@ -223,13 +228,13 @@ Ahora que se ha familiarizado con las diferentes vistas y paneles, crearemos un 
 
 12. Complete su nuevo registro de caso de la siguiente manera:
 
-	- **Título del caso:** Sensor no funciona - sus iniciales
+    - **Título del caso:** Sensor no funciona - sus iniciales
 
-	- **Cliente:** Piper Smith
+    - **Cliente:** Piper Smith
 
-	- **Origen:** Teléfono
+    - **Origen:** Phone
 
-	- **Descripción:** Piper explica que uno de los sensores que ha recibido no funciona correctamente. 
+    - **Descripción:** Piper explica que uno de los sensores que ha recibido no funciona correctamente. 
 
 13. Haga clic en el botón **Guardar** para guardar el registro y dejarlo abierto. 
 
@@ -237,15 +242,15 @@ Ahora que se ha familiarizado con las diferentes vistas y paneles, crearemos un 
 
 15. En el menú que aparece, seleccione **Llamada de teléfono**.
 
-16. En **Creación rápida: llamada de teléfono**, complete la actividad del siguiente modo:
+16. En el formulario **Creación rápida: llamada de teléfono**, complete la actividad del siguiente modo:
 
-	- **Asunto:** Devolver la llamada a Piper
+    - **Firmante:** Devolver la llamada a Piper
 
-	- **Dirección:** Saliente
+    - **Dirección:** Saliente
 
-	- **Número de teléfono:**  888 555-1762
+    - **Número de teléfono:**  888 555-1762
 
-	- **Duración:** 15 minutos.
+    - **Duración:** 15 minutos.
 
 17. Seleccione el botón **Guardar y cerrar**. 
 
@@ -259,13 +264,13 @@ Ahora que se ha familiarizado con las diferentes vistas y paneles, crearemos un 
 
 22. En el menú que aparece, seleccione **Tarea**.
 
-23. En **Creación rápida: llamada de teléfono**, complete la actividad del siguiente modo:
+23. En el formulario **Creación rápida: llamada de teléfono**, complete la actividad del siguiente modo:
 
-	- **Asunto:** Investigar el problema de Piper
+    - **Firmante:** Investigar el problema de Piper
 
-	- **Descripción:** Acceder a la base de conocimiento para investigar el problema de Piper. 
+    - **Descripción:** Acceder a la base de conocimiento para investigar el problema de Piper. 
 
-	- **Duración:** 30 minutos.
+    - **Duración:** 30 minutos.
 
 24. Seleccione el botón **Guardar y cerrar**. 
 
@@ -279,15 +284,15 @@ Ahora que se ha familiarizado con las diferentes vistas y paneles, crearemos un 
 
  
 
-### Tarea 2: Cerrar el caso
+### <a name="task-2-close-the-case"></a>Tarea 2: Cerrar el caso
 
 Ahora que hemos identificado una solución al problema del cliente, podremos resolver el caso. El primer paso para cerrar un caso es cerrar todas las actividades abiertas asociadas con el mismo. 
 
-1. En la **escala de tiempo** del caso, mantenga el puntero sobre **la tarea de investigar el problema de Piper** que creó anteriormente.** Seleccione el icono de **la marca de verificación** para completar la actividad. 
+1. En la **escala de tiempo** del caso, mantenga el puntero sobre la **tarea de investigar el problema de Piper** que creó anteriormente **.** Seleccione el icono de **la marca de verificación** para completar la actividad. 
 
 2. En la pantalla **Cerrar tarea**, compruebe que el estado es completado y seleccione el botón **Cerrar**. El estado de la tarea debería ser **Cerrado**. 
 
-3. Mantenga el puntero sobre **Devolver la llamada a Piper** que creó anteriormente**.** Seleccione el icono de **la marca de verificación** para completar la actividad. 
+3. Mantenga el puntero sobre **Devolver la llamada a Piper** que creó anteriormente **.** Seleccione el icono de **la marca de verificación** para completar la actividad. 
 
 4. En la pantalla **Cerrar llamada de teléfono**, compruebe que los **Estados** son **Completado** y **Hecho**. Seleccione el botón **Cerrar**. Compruebe que la actividad aparece como cerrada en la escala de tiempo. 
 

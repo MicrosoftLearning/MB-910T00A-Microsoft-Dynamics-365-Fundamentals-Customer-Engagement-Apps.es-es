@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Laboratorio 5.1: Crear un cliente potencial basado en proyecto'
-    module: 'Módulo 5: Aprender los fundamentos de Dynamics 365 Project Operations'
+  title: 'Laboratorio 5.1: Crear un cliente potencial basado en proyecto'
+  module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
+ms.openlocfilehash: b5056adaef7064be8a62dcd85c2b1e0fb81b986a
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908957"
 ---
-
-Módulo 5: Aprender los Fundamentos de Dynamics 365 Project Operations
+<a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations"></a>Módulo 5: Aprender los Fundamentos de Dynamics 365 Project Operations
 ========================
 
-## Laboratorio de prácticas 5.1: Crear un cliente potencial basado en proyecto
+## <a name="practice-lab-51-create-a-project-based-lead"></a>Laboratorio de prácticas 5.1: Crear un cliente potencial basado en proyecto
 
-## Escenario de laboratorio
+## <a name="lab-scenario"></a>Escenario de laboratorio
 
 La compañía ABC está especializada en la fabricación, venta, instalación y reparaciones de equipos de seguridad. Sus productos incluyen cámaras de seguridad para interiores y exteriores, sensores de humedad e incendios, servicios de supervisión y más. 
 
@@ -37,10 +42,10 @@ el proceso de instalación del equipo de seguridad comprado varía en función d
 
 - **Clientes empresariales:** las implementaciones en empresas pueden llevar meses y se requiere un director del proyecto para supervisar las operaciones del día a día. Esto incluye la creación de planes de proyecto, definición de equipos de proyecto y la programación de recursos. 
 
-**Servicio y soporte:**
+**Servicio y soporte técnico:**
 
 una vez instalados los sistemas, la compañía ABC proporciona soporte posventa. Si un cliente tiene un problema, puede contactar con soporte al cliente. Un agente trabajará con el cliente de forma remota para resolver el problema. Si el problema no se puede resolver de forma remota, el agente de soporte puede escalar el problema a una orden de trabajo que se asignará a un técnico de servicio cualificado para que se encargue de ella. 
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 Los comerciales de la compañía ABC se centran en clientes que necesitan una solución empresarial más especializada y a su medida. Por esto, en sus ventas a empresas se suelen implicar varias ubicaciones con comunicación conjunta y son necesarios múltiples recursos para completar el proyecto. Los ciclos de venta de la compañía ABC llevan muchos meses y requieren la movilización de varias partes para su implementación. 
 
@@ -52,17 +57,17 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 - Introducir un cliente potencial de proyecto en Dynamics 365 Sales
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
-  - **Tiempo estimado**: 10 minutos
+  - **Tiempo estimado**: 10 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
-## Ejercicio 1: Crear un cliente potencial basado en proyecto
+## <a name="exercise-1-create-a-project-based-lead"></a>Ejercicio 1: Crear un cliente potencial basado en proyecto
 
-### Tarea 1: Crear un nuevo cliente potencial
+### <a name="task-1-create-a-new-lead"></a>Tarea 1: Crear un nuevo cliente potencial
 
-1. Si es necesario, abra el navegador InPrivate y acceda a [Https://home.Dynamics.com](https://home.dynamics.com/) 
+1. Si es necesario, abra un explorador InPrivate y vaya a [Https://home.Dynamics.com](https://home.dynamics.com/). 
 
 2. Cuando se le pida, escriba las credenciales proporcionadas por el instructor. 
 
@@ -70,9 +75,9 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 4. Si no aparece Project Service, visite trials.dynamics.com e instale la versión de prueba de la aplicación. 
 
-	- Correo electrónico del trabajo: correo electrónico del inquilino. 
+    - Correo electrónico del trabajo: correo electrónico del inquilino. 
 
-	- Número de teléfono: teléfono móvil
+    - Número de teléfono: teléfono móvil
 
 5. En el panel izquierdo de la pantalla, seleccione el área **Ventas**. 
 
@@ -86,39 +91,39 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 10. Complete su nuevo registro de cliente potencial de la siguiente manera:
 
-	- **Tema:** Implementación global completa - sus iniciales
+    - **Tema:** Implementación global completa - sus iniciales
 
-	- **Tipo:** Basado en tarea
+    - **Tipo:** Basado en tarea
 
-	- **Nombre:** Jean
+    - **Nombre:** Jean
 
-	- **Apellidos:** Anderson - sus iniciales
+    - **Apellidos:** Anderson - sus iniciales
 
-	- **Teléfono del trabajo:** 888 555-8855
+    - **Teléfono del trabajo:** 888 555-8855
 
-	- **Correo electrónico:** jean@sample.com
+    - **Correo electrónico:** jean@sample.com
 
-	- **Compañía:** Consolidated Sample - sus iniciales
+    - **Empresa:** Consolidated Sample - sus iniciales
 
-	- **Calle 1:** 219 91<sup data-htmlnode="">st</sup> Ave N
+    - **Calle 1:** 219 91<sup data-htmlnode="">st</sup> Ave N
 
-	- **Ciudad:** Seattle
+    - **Ciudad:** Seattle
 
-	- **Estado o provincia**: WA
+    - **Estado o provincia:** Washington
 
-	- **Código postal:** 98001 
+    - **Código postal:** 98001 
 
 11. Seleccione el botón **Guardar** de la Barra de comandos para guardar el nuevo cliente potencial y dejarlo abierto.
 
 12. Observe el flujo de proceso de negocio **Cliente potencial a Oportunidad** en la parte superior del registro. Haga clic en **Etapa de calificación** para seleccionarla. Complete la etapa del siguiente modo:
 
-	- **Calendario de compra:** Este trimestre
+    - **Calendario de compra:** Este trimestre
 
-	- **Presupuesto estimado:** 25000  
+    - **Presupuesto estimado:** 25 000  
 
-	- **Proceso de compra:** Comité
+    - **Proceso de compra:** Comité
 
-	- **Identificación de los responsables de toma de decisiones:** Completado
+    - **Identificación de los responsables de toma de decisiones:** Completado
 
 13. Haga clic en la **X** para cerrar la ventana. 
 
@@ -128,13 +133,13 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 16. En la pantalla de creación rápida de llamadas telefónicas, complete la llamada de teléfono como se muestra a continuación:
 
-	- **Asunto:** Llamada de calificación inicial - sus iniciales  
+    - **Firmante:** Llamada de calificación inicial - sus iniciales  
 
-	- **Número de teléfono:** 888 555-8855
+    - **Número de teléfono:** 888 555-8855
 
-	- **Dirección:** Saliente
+    - **Dirección:** Saliente
 
-	- **Descripción:** Conversación inicial con Jean para determinar la calificación inicial. 
+    - **Descripción:** Conversación inicial con Jean para determinar la calificación inicial. 
 
 17. Seleccione el botón **Guardar y cerrar**.
 
@@ -144,7 +149,7 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
  
 
-### Tarea 2: Calificar el cliente potencial y convertirlo en oportunidad para su calificación futura
+### <a name="task-2-qualify-the-lead-and-convert-to-opportunity-for-further-qualification"></a>Tarea 2: Calificar el cliente potencial y convertirlo en oportunidad para su calificación futura
 
 1. En la **Barra de comandos**, seleccione el botón **Calificar**. 
 
@@ -152,5 +157,5 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 3. Seleccione la etapa **Desarrollar** para volver a la oportunidad.
 
-4. Haga clic en **Guardar y cerrar** para cerrar el registro de oportunidad que acaba de crear. 
+4. Haga clic en **Guardar &amp; cerrar** para cerrar el registro de oportunidad que acaba de crear. 
 

@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Laboratorio 4.3: Laboratorio final de Dynamics 365 Field Service'
-    module: 'Módulo 4: Aprender los fundamentos de Dynamics 365 Field Service'
+  title: 'Laboratorio 4.3: Laboratorio final de Dynamics 365 Field Service'
+  module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
+ms.openlocfilehash: f3a0b281cf2f6b342b789bffa977d57de8b9dcf6
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909087"
 ---
-
-Módulo 4: Aprender los fundamentos de Dynamics 365 Field Service
+<a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>Módulo 4: Aspectos básicos de Dynamics 365 Field Service
 ========================
 
-## Laboratorio de prácticas 4.3: Laboratorio final de Dynamics 365 Field Service
+## <a name="practice-lab-43---dynamics-365-field-service-capstone-lab"></a>Laboratorio de prácticas 4.3: Laboratorio final de Dynamics 365 Field Service
 
-## Escenario de laboratorio
+## <a name="lab-scenario"></a>Escenario de laboratorio
 
 La compañía ABC está especializada en la fabricación, venta, instalación y reparaciones de equipos de seguridad. Sus productos incluyen cámaras de seguridad para interiores y exteriores, sensores de humedad e incendios, servicios de supervisión y más. 
 
@@ -37,11 +42,11 @@ el proceso de instalación del equipo de seguridad comprado varía en función d
 
 - **Clientes empresariales:** las implementaciones en empresas pueden llevar meses y se requiere un director del proyecto para supervisar las operaciones del día a día. Esto incluye la creación de planes de proyecto, definición de equipos de proyecto y la programación de recursos. 
 
-**Servicio y soporte:**
+**Servicio y soporte técnico:**
 
 una vez instalados los sistemas, la compañía ABC proporciona soporte posventa. Si un cliente tiene un problema, puede contactar con soporte al cliente. Un agente trabajará con el cliente de forma remota para resolver el problema. Si el problema no se puede resolver de forma remota, el agente de soporte puede escalar el problema a una orden de trabajo que se asignará a un técnico de servicio cualificado para que se encargue de ella. 
 
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 Usualmente, la compañía ABC envía técnicos de servicio para encargarse de tareas para el cliente en uno de tres escenarios. 
 
@@ -59,15 +64,15 @@ Hace poco, un cliente empresarial, Active Transport, Inc., contactó con el equi
 
 - Resolver una orden de trabajo mediante la aplicación móvil 
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
   - **Tiempo estimado**: 45 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
-## Ejercicio 1: Crear un caso y escalar a una orden de trabajo 
+## <a name="exercise-1-create-a-case-and-escalate-to-a-work-order"></a>Ejercicio 1: Crear un caso y escalar a una orden de trabajo 
 
-### Tarea 1: Crear un registro de caso
+### <a name="task-1-create-a-case-record"></a>Tarea 1: Crear un registro de caso
 
 1. Si aún no la ha abierto, abra la aplicación **Dynamics 365 Field Service**. 
 
@@ -77,13 +82,13 @@ Hace poco, un cliente empresarial, Active Transport, Inc., contactó con el equi
 
 4. Complete su nuevo registro de caso de la siguiente manera:
 
-	- **Título del caso:** Cámara dañada
+    - **Título del caso:** Cámara dañada
 
-	- **Cliente:** Best For You Organics Company
+    - **Cliente:** Best For You Organics Company
 
-	- **Origen:** Teléfono
+    - **Origen:** Phone
 
-	Guarde el registro.
+    Guarde el registro.
 
 5. Seleccione la pestaña **Servicio de campo**
 
@@ -93,7 +98,7 @@ Hace poco, un cliente empresarial, Active Transport, Inc., contactó con el equi
 
  
 
-### Tarea 2: Crear una orden de trabajo de forma manual
+### <a name="task-2-manually-create-a-word-order"></a>Tarea 2: Crear una orden de trabajo de forma manual
 
 Volveremos al registro de caso que ha creado más adelante. Ahora examinemos cómo crear un registro de orden de trabajo de forma manual. 
 
@@ -105,17 +110,17 @@ Volveremos al registro de caso que ha creado más adelante. Ahora examinemos có
 
 3. Complete los detalles de la orden de trabajo con lo siguiente:
 
-	- **Cuenta de servicio:** Margie's Travel
+    - **Cuenta de servicio:** Margie's Travel
 
-	- **Lista de precios:** Office 365 US (muestra)
+    - **Lista de precios:** Office 365 US (muestra)
 
-	- **Tipo de orden de trabajo**: Servicio
+    - **Tipo de orden de trabajo:** Entidad
 
-	- **Gravable:** No
+    - **Gravable:** No
 
-	Guarde el registro y asigne el tipo de incidente principal
+    Guarde el registro y asigne el tipo de incidente principal
 
-	- **Tipo de incidente principal**: Abandono (crear nuevo)
+    - **Tipo de incidente principal:** Abandono (crear nuevo)
 
 4. Apúntese el número de la orden de trabajo para asegurarse de que trabaja con la orden de trabajo correcta más adelante. 
 
@@ -125,15 +130,15 @@ Volveremos al registro de caso que ha creado más adelante. Ahora examinemos có
 
 7. En **Preferencias**, configure las preferencias de la siguiente manera:
 
-	- **Tiempo desde comprometido:** Hoy, 9:00 horas
+    - **Hora de inicio prometida:** Hoy, 9:00 horas
 
-	- **Tiempo hasta comprometido:** Hoy, 11:00 horas
+    - **Hora de finalización prometida:** Hoy, 11:00 horas
 
 8. Seleccione **Guardar y cerrar** para guardar los cambios y salir de la orden de trabajo.
 
  
 
-### Tarea 3: Generar una orden de trabajo a partir de un caso
+### <a name="task-3-generate-a-work-order-from-a-case"></a>Tarea 3: Generar una orden de trabajo a partir de un caso
 
 Escalar registros de casos es otra manera de crear órdenes de trabajo. En este caso, escalaremos el registro de caso de la cámara dañada que hemos creado anteriormente. 
 
@@ -141,7 +146,7 @@ Escalar registros de casos es otra manera de crear órdenes de trabajo. En este 
 
 1. En la navegación de la izquierda, seleccione **Casos**. 
 
-2. Abra el caso **Cámara dañada**que ha creado anteriormente. 
+2. Abra el caso **Cámara dañada** que ha creado anteriormente. 
 
 3. En la **Barra de comandos**, haga clic en el botón **Convertir en orden de trabajo**. 
 
@@ -151,9 +156,9 @@ Escalar registros de casos es otra manera de crear órdenes de trabajo. En este 
 
 Sus dos nuevas órdenes de trabajo están listas para ser programadas. 
 
-## Ejercicio 2: Programar elementos con Dynamics 365 Field Service  
+## <a name="exercise-2-schedule-items-with-dynamics-365-field-service"></a>Ejercicio 2: Programar elementos con Dynamics 365 Field Service  
 
-### Tarea 1: Programar directamente a partir de una orden de trabajo
+### <a name="task-1-schedule-directly-from-a-work-order"></a>Tarea 1: Programar directamente a partir de una orden de trabajo
 
 1. En la navegación de la izquierda, seleccione **Tablero de programación**.
 
@@ -171,7 +176,7 @@ Sus dos nuevas órdenes de trabajo están listas para ser programadas.
 
  
 
-### Tarea 2: Programar con el tablero de programación
+### <a name="task-2-schedule-with-the-schedule-board"></a>Tarea 2: Programar con el tablero de programación
 
 1. En la navegación de la izquierda, seleccione **Tablero de programación**.
 

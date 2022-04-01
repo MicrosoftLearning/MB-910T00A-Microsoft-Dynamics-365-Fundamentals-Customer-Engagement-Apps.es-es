@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Laboratorio 2.3: Laboratorio final de Dynamics 365 Sales'
-    module: 'Módulo 2: Aprender los fundamentos de Dynamics 365 Sales'
+  title: 'Laboratorio 2.3: Laboratorio de proyecto final para Dynamics 365 Sales'
+  module: 'Module 2: Learn the Fundamentals of Dynamics 365 Sales'
+ms.openlocfilehash: fb97a68aa5e115834a5b925b06c7e3831a525a5b
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909027"
 ---
-
-Módulo 2: Aprender los fundamentos de Dynamics 365 Sales
+<a name="module-2-learn-the-fundamentals-of-dynamics-365-sales"></a>Módulo 2: Aspectos básicos de Dynamics 365 Sales
 ========================
 
-## Laboratorio de prácticas 2.3: Laboratorio de proyecto final de Dynamics 365 Sales
+## <a name="practice-lab-23---dynamics-365-sales-capstone-lab"></a>Laboratorio de prácticas 2.3: Laboratorio de proyecto final de Dynamics 365 Sales
 
-## Escenario de laboratorio
+## <a name="lab-scenario"></a>Escenario de laboratorio
 
 La compañía ABC está especializada en la fabricación, venta, instalación y reparaciones de equipos de seguridad. Sus productos incluyen cámaras de seguridad para interiores y exteriores, sensores de humedad e incendios, servicios de supervisión y más. 
 
@@ -37,11 +42,11 @@ el proceso de instalación del equipo de seguridad comprado varía en función d
 
 - **Clientes empresariales:** las implementaciones en empresas pueden llevar meses y se requiere un director del proyecto para supervisar las operaciones del día a día. Esto incluye la creación de planes de proyecto, definición de equipos de proyecto y la programación de recursos. 
 
-**Servicio y soporte:**
+**Servicio y soporte técnico:**
 
 una vez instalados los sistemas, la compañía ABC proporciona soporte posventa. Si un cliente tiene un problema, puede contactar con soporte al cliente. Un agente trabajará con el cliente de forma remota para resolver el problema. Si el problema no se puede resolver de forma remota, el agente de soporte puede escalar el problema a una orden de trabajo que se asignará a un técnico de servicio cualificado para que se encargue de ella.  
 
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 Está trabajando como representante de ventas en la sección de ventas residenciales de la compañía ABC. Aunque muchos de sus clientes potenciales provienen de eventos patrocinados por la compañía, campañas de marketing y listas compradas, a menudo los también clientes le consultan directamente. Cuando recibe esas consultas, debe escribirlas manualmente y trabajar con ellas a lo largo del ciclo de vida de las ventas. 
 
@@ -61,18 +66,18 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 - Generar una factura. 
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
   - **Tiempo estimado**: 30 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
   
-## Ejercicio 1: Crear y calificar un cliente potencial en Dynamics 365 Sales
+## <a name="exercise-1-create-and-qualify-a-lead-in-dynamics-365-sales"></a>Ejercicio 1: Crear y calificar un cliente potencial en Dynamics 365 Sales
 
 
-### Tarea 1: Crear un nuevo cliente potencial
+### <a name="task-1-create-a-new-lead"></a>Tarea 1: Crear un nuevo cliente potencial
 
-1. Si es necesario, abra el navegador InPrivate y acceda a [Https://home.Dynamics.com](https://home.dynamics.com/) 
+1. Si es necesario, abra un explorador InPrivate y vaya a [Https://home.Dynamics.com](https://home.dynamics.com/). 
 
 2. Cuando se le pida, escriba las credenciales proporcionadas por el instructor. 
 
@@ -88,28 +93,28 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 8. Complete su nuevo registro de cliente potencial de la siguiente manera:
 
-	- **Tema:** búsqueda de equipamiento nuevo – “Su nombre”
+    - **Tema:** búsqueda de equipamiento nuevo – “Su nombre”
 
-	- **Nombre:** Piper
+    - **Nombre:** Piper
 
-	- **Apellidos:** Smith – Sus iniciales
+    - **Apellidos:** Smith – Sus iniciales
 
-	- **Teléfono móvil:** 888 555-1762
+    - **Teléfono móvil:** 888 555-1762
 
-	- **Correo electrónico:** piper@sample.com
+    - **Correo electrónico:** piper@sample.com
 
 
 9. Seleccione el botón **Guardar** de la Barra de comandos para guardar el nuevo cliente potencial y dejarlo abierto.
 
 10. Observe el flujo de proceso de negocio **Cliente potencial a Oportunidad** en la parte superior del registro. Haga clic en **Etapa de calificación** para seleccionarla. Complete la etapa del siguiente modo:
 
-	- **Calendario de compra:** Este trimestre
+    - **Calendario de compra:** Este trimestre
 
-	- **Presupuesto estimado:** 10000 
+    - **Presupuesto estimado:** 10 000 
 
-	- **Proceso de compra:** Individual
+    - **Proceso de compra:** Individual
 
-	- **Identificación de los responsables de toma de decisiones:** Completado
+    - **Identificación de los responsables de toma de decisiones:** Completado
 
 11. Haga clic en la **X** para cerrar la ventana. 
 
@@ -119,13 +124,13 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 14. En la pantalla de creación rápida de llamadas telefónicas, complete la llamada de teléfono como se muestra a continuación:
 
-	- **Asunto:** Búsqueda de equipamiento de seguridad para el hogar
+    - **Firmante:** Búsqueda de equipamiento de seguridad para el hogar
 
-	- **Número de teléfono:** 888 555-1762
+    - **Número de teléfono:** 888 555-1762
 
-	- **Dirección:** Entrante
+    - **Dirección:** Entrante
 
-	- **Descripción:** Después de algunos casos en su vecindario, busca comprar un sistema de seguridad. 
+    - **Descripción:** Después de algunos casos en su vecindario, busca comprar un sistema de seguridad. 
 
 15. Seleccione el botón **Guardar y cerrar**.
 
@@ -139,7 +144,7 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
  
 
-### Tarea 2: Calificar al cliente potencial como oportunidad
+### <a name="task-2-qualify-the-lead-as-an-opportunity"></a>Tarea 2: Calificar al cliente potencial como oportunidad
 
 Después de visitar a Piper, identifica que hay suficiente interés por su parte para continuar, y que tenemos productos y servicios que la beneficiarían. A continuación, calificará el registro del cliente potencial. Esto creará un registro de oportunidad relacionado y pasará a la siguiente etapa del proceso de ventas cliente potencial a oportunidad. 
 
@@ -149,17 +154,17 @@ Después de visitar a Piper, identifica que hay suficiente interés por su parte
 
 3. Seleccione la etapa **Cualificar** para volver al cliente potencial.
 
-4. Haga clic en **Guardar y cerrar** para cerrar el registro de cliente potencial que acaba de crear. 
+4. Haga clic en **Guardar &amp; cerrar** para cerrar el registro de cliente potencial que acaba de crear. 
 
  
 
  
 
-## Ejercicio 2: Administrar una oportunidad de ventas con Dynamics 365 Sales
+## <a name="exercise-2-manage-a-sales-opportunity-in-dynamics-365-sales"></a>Ejercicio 2: Administrar una oportunidad de ventas con Dynamics 365 Sales
 
 Ahora que hemos calificado con éxito el cliente potencial como una oportunidad, es el momento de trabajar la oportunidad a través de su ciclo de vida.
 
-### Tarea 1: Administrar una oportunidad de ventas y crear una oferta 
+### <a name="task-1-manage-a-sales-opportunity--create-a-quote"></a>Tarea 1: Administrar una oportunidad de ventas y crear una oferta 
 
 1. En el panel izquierdo de la pantalla, seleccione **Oportunidades**. 
 
@@ -181,27 +186,27 @@ Ahora que hemos calificado con éxito el cliente potencial como una oportunidad,
 
 10. En el encabezado de la oportunidad **Búsqueda de equipo de seguridad – Sus iniciales**, en la parte superior del registro, seleccione la flecha hacia abajo junto al campo del propietario. 
 
-11. Complete los siguientes pasos:
+11. Realice los pasos siguientes:
 
-	- **Fecha de cierre estimada:** mañana
+    - **Fecha de cierre estimada:** mañana
 
-	- **Beneficios estimados:** 12.500,00
+    - **Ingresos estimados:** 12 500.00
 
 12. Vaya a **Escala de tiempo del registro** en la mitad de la pantalla y haga clic en el **Icono +** para agregar una nueva actividad. 
 
 13. En el menú que aparece, seleccione **Cita**.
 
-14. En **Creación rápida:**En la pantalla de **Cita**, complete lo siguiente:
+14. En la pantalla **Creación rápida: Cita**, complete lo siguiente:
 
-	- **Asunto:** Cita rápida – “Sus iniciales”
+    - **Firmante:** Cita rápida – “Sus iniciales”
 
-	- **Ubicación:** En línea
+    - **Ubicación**: En línea
 
-	- **Hora de inicio**: Mañana @ 10:00 a. m.
+    - **Hora de inicio**: Mañana @ 10:00 a. m.
 
-	- **Hora de finalización:** Mañana @ 10:30 a. m.
+    - **Hora de finalización:** Mañana a las 10:30 a. m.
 
-15. En la Barra de comandos, seleccione **Guardar y cerrar**
+15. En la barra de comandos, seleccione **Guardar &amp; cerrar**.
 
 16. En el flujo del proceso de negocio de cliente potencial a oportunidad, seleccione la etapa **Desarrollar**. Tenga en cuenta que debe identificar las partes interesadas y los competidores.
 
@@ -237,11 +242,11 @@ Ahora que hemos calificado con éxito el cliente potencial como una oportunidad,
 
  
 
-**IMPORTANTE:** Dado que estos entornos tienen varias aplicaciones de primera parte desplegadas, puede que el formulario de oferta que se muestra actualmente no sea el correcto para la funcionalidad relacionada con las ventas. Si el texto bajo el nombre de la oferta **Búsqueda de equipo de seguridad – Sus iniciales** dice: **Oferta . Oferta**, se carga la forma correcta. Si dice, **Oferta . Información de Field Service**, tendrá que cambiarlo. Si necesita cambiarlo, seleccione la flecha desplegable junto a **Cita . Información de Field Service**. En el menú que aparece, seleccione **Oferta**. 
+**IMPORTANTE:** Dado que estos entornos tienen varias aplicaciones de primera parte desplegadas, puede que el formulario de oferta que se muestra actualmente no sea el correcto para la funcionalidad relacionada con las ventas. Si el texto bajo el nombre de la oferta **Búsqueda de equipo de seguridad – Sus iniciales** dice: **Oferta . Oferta**, se carga la forma correcta. Si dice, **Oferta . Información de Field Service**, tendrá que cambiarlo. Si necesita cambiarlo, seleccione la flecha desplegable junto a **Oferta . Información de Field Service**. En el menú que aparece, seleccione **Oferta**. 
 
  
 
-### Tarea 2: Administrar una oferta
+### <a name="task-2-manage-a-quote"></a>Tarea 2: Administrar una oferta
 
 Ahora que tiene una oferta relacionada, la preparará para presentársela a un cliente. En circunstancias normales, puede que agreguemos productos al registro de oferta antes de que se entregue al cliente. Como trabajamos en entornos compartidos, vamos a omitir el agregado de líneas de oferta y a revisar la entrega de la oferta. 
 
@@ -270,15 +275,15 @@ Ahora que tiene una oferta relacionada, la preparará para presentársela a un c
 
 12. Complete la ventana de crear pedido de la siguiente forma:
 
-	- **Razón para el estado:** Ganado
+    - **Razón para el estado:** Ganado
 
-	- **Fecha en la que se logró:** Fecha de hoy
+    - **Fecha en la que se logró:** Fecha de hoy
 
-	- **Cerrar oportunidad:** Sí
+    - **Cerrar oportunidad:** Sí
 
-	- **Calcular ingresos reales a partir de ofertas:** No
+    - **Calcular ingresos reales a partir de ofertas:** No
 
-	- **Ingresos reales:** 12 500 $
+    - **Ingresos reales:** 12 500 USD
 
 13. Seleccione el botón **Aceptar**. 
 
@@ -286,7 +291,7 @@ El sistema crea un nuevo pedido de ventas relacionado con el elemento. Además, 
 
 ###  
 
-### Tarea 3: Administrar el pedido y la factura
+### <a name="task-3-manage-the-order-and-invoice"></a>Tarea 3: Administrar el pedido y la factura
 
 Ahora que ha creado un pedido de ventas, cerraremos el pedido y generaremos una factura. En circunstancias normales, los productos del registro de oferta se agregarán al pedido de ventas. Como trabajamos en entornos compartidos, vamos a avanzar como si hubiera productos agregados. 
 
@@ -296,9 +301,9 @@ Ahora que ha creado un pedido de ventas, cerraremos el pedido y generaremos una 
 
 2. Complete la ventana de realizar pedido de la siguiente forma:
 
-	- **Razón para el estado:** Completo
+    - **Razón para el estado:** Completar
 
-	- **Fecha de realización:** Fecha de hoy
+    - **Fecha de realización:** Fecha de hoy
 
 3. Seleccione el botón **Realizar**. 
 

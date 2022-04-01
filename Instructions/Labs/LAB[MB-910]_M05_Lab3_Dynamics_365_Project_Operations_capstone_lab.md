@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Laboratorio 5.3: Laboratorio final de Dynamics 365 Project Operations'
-    module: 'Módulo 5: Aprender los fundamentos de Dynamics 365 Project Operations'
+  title: 'Laboratorio 5.3: Laboratorio de proyecto final para Dynamics 365 Project Operations'
+  module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
+ms.openlocfilehash: 29ccc6c69e61b6a2f2da8993e2b5fc29716284e2
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908977"
 ---
-
-Módulo 5: Aprender los Fundamentos de Dynamics 365 Project Operations
+<a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations"></a>Módulo 5: Aprender los Fundamentos de Dynamics 365 Project Operations
 ========================
 
-## Laboratorio de prácticas 5.3: Laboratorio final de Dynamics 365 Project Operations
+## <a name="practice-lab-53---dynamics-365-project-operations-capstone-lab"></a>Laboratorio de prácticas 5.3: Laboratorio final de Dynamics 365 Project Operations
 
-## Escenario de laboratorio
+## <a name="lab-scenario"></a>Escenario de laboratorio
 
 La compañía ABC está especializada en la fabricación, venta, instalación y reparaciones de equipos de seguridad. Sus productos incluyen cámaras de seguridad para interiores y exteriores, sensores de humedad e incendios, servicios de supervisión y más. 
 
@@ -37,10 +42,10 @@ el proceso de instalación del equipo de seguridad comprado varía en función d
 
 - **Clientes empresariales:** las implementaciones en empresas pueden llevar meses y se requiere un director del proyecto para supervisar las operaciones del día a día. Esto incluye la creación de planes de proyecto, definición de equipos de proyecto y la programación de recursos. 
 
-**Servicio y soporte:**
+**Servicio y soporte técnico:**
 
 una vez instalados los sistemas, la compañía ABC proporciona soporte posventa. Si un cliente tiene un problema, puede contactar con soporte al cliente. Un agente trabajará con el cliente de forma remota para resolver el problema. Si el problema no se puede resolver de forma remota, el agente de soporte puede escalar el problema a una orden de trabajo que se asignará a un técnico de servicio cualificado para que se encargue de ella. 
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 Los comerciales de la compañía ABC se centran en clientes que necesitan una solución empresarial más especializada y a su medida. Por esto, en sus ventas a empresas se suelen implicar varias ubicaciones con comunicación conjunta y son necesarios múltiples recursos para completar el proyecto. Los ciclos de venta de la compañía ABC llevan muchos meses y requieren la movilización de varias partes para su implementación. 
 
@@ -58,19 +63,19 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 - Crear un proyecto y definir el equipo del proyecto. 
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
   - **Tiempo estimado**: 45 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
-## Ejercicio 1: Crear una oferta de proyecto y estimación de proyecto
+## <a name="exercise-1-create-a-project-quote--project-estimate"></a>Ejercicio 1: Crear una oferta de proyecto y estimación de proyecto
 
 La oportunidad de proyecto se utiliza para recabar detalles de alto nivel acerca de un proyecto potencial. Conforme se recaban más y más detalles sobre el proyecto, podrá crear una oferta de proyecto. La oferta de proyecto a menudo incluye detalles sobre los diferentes roles, escalas de tiempo y precios. La oferta de proyecto es lo que se le presentará al cliente. En la oferta de proyecto es donde podrá empezar a crear un plan de proyecto asociado al producto que vende. Esto le ahorrará tiempo después de la venta del proyecto, ya que muchos detalles relacionados con el proyecto ya se habrán capturado.
 
 En este ejercicio, creará un proyecto y definirá detalles relacionados con la oferta del proyecto. 
 
-### Tarea 1: Crear una oferta de proyecto.  
+### <a name="task-1-create-a-project-quote"></a>Tarea 1: Crear una oferta de proyecto.  
 
 1. Con la Oportunidad de proyecto abierta, seleccione la pestaña **Ofertas**. 
 
@@ -86,21 +91,21 @@ En este ejercicio, creará un proyecto y definirá detalles relacionados con la 
 
 7. En la pantalla de **creación rápida de proyecto**, complete el proyecto del siguiente modo:
 
-	- **Nombre:** Implementación global completa - sus iniciales
+    - **Nombre**: Implementación global completa - sus iniciales
 
-	- **Director del proyecto:** Seleccione su registro de usuario
+    - **Jefe de proyecto:** Seleccione su registro de usuario
 
-	- **Plantilla de calendario:** Plantilla de trabajo predeterminada
+    - **Plantilla de calendario:** Plantilla de trabajo predeterminada
 
-	- **Unidad de contratación:** Fabrikam US
+    - **Unidad de contratación:** Fabrikam US
 
-	- **Fecha de inicio estimada:** Una semana a partir de hoy
+    - **Fecha de inicio estimada:** Una semana a partir de hoy
 
-	- **Coste del trabajo estimado:** 175 000 $
+    - **Coste del trabajo estimado:** 175 000 USD
 
-	- **Gastos estimados:** 50 000 $
+    - **Gastos estimados:** 50 000 USD
 
-	- **Coste total estimado:** 225 000 $
+    - **Coste total estimado:** 225 000 USD
 
 8. Seleccione el botón **Guardar y cerrar**.
 
@@ -116,21 +121,21 @@ En este ejercicio, creará un proyecto y definirá detalles relacionados con la 
 
 14. Complete el **Detalle de la partida de oferta** del siguiente modo:
 
-	- **Descripción:** Communication Line Run - sus iniciales
+    - **Descripción:** Communication Line Run - sus iniciales
 
-	- **Tipo de transacción:** Hora
+    - **Tipo de transacción:** Hora
 
-	- **Rol:** Técnico de redes
+    - **Rol:** Técnico de redes
 
-	- **Categoría:** Hora
+    - **Categoría:** Hora
 
-	- **Fecha de inicio:** Un mes a partir de hoy
+    - **Fecha de inicio:** Un mes a partir de hoy
 
-	- **Fecha de finalización:** Dos meses a partir de hoy
+    - **Fecha de finalización:** Dos meses a partir de hoy
 
-	- **Unidad de recurso:** Fabrikam US
+    - **Unidad de recurso:** Fabrikam US
 
-	- **Unidad:** Hour
+    - **Unidad:** Hour (Hora)
 
 
 15. Seleccione el botón **Guardar y cerrar** para cerrar el detalle de la partida presupuestaria. 
@@ -141,14 +146,14 @@ En este ejercicio, creará un proyecto y definirá detalles relacionados con la 
 **Nota:** Deje la oferta de proyecto abierta para poder utilizarla en la siguiente tarea. 
 
 
-### Tarea 2: Cerrar la oferta de proyecto y crear un contrato de proyecto.
+### <a name="task-2-close-the-project-quote-and-create-a-project-contract"></a>Tarea 2: Cerrar la oferta de proyecto y crear un contrato de proyecto.
 
 En esta tarea, cerrará la oferta que ha creado y la convertirá en un contrato de proyecto. El contrato de proyecto podrá ser utilizado y se podrá acceder a él mientras se ejecuta el proyecto. 
 
 
 1. Con la oferta de proyecto de **Implementación de seguridad global completa - sus iniciales** abierta, seleccione el botón **Cerrar como ganada** en la Barra de comandos. 
 
-2. En la pantalla **¿Seguro que quiere cerrar la oferta?**, haga clic en **OK**.
+2. En la pantalla **¿Seguro que quiere cerrar la oferta?** , haga clic en **OK**.
 
 3. Una vez cerrada la oferta, se mostrará el nuevo contrato de proyecto de **Implementación de seguridad global completa - sus iniciales**. 
 
@@ -156,14 +161,14 @@ En esta tarea, cerrará la oferta que ha creado y la convertirá en un contrato 
 
 **Nota:** Deje el contrato de proyecto abierto para poder utilizarlo en la siguiente tarea. 
 
-## Ejercicio 2: Administrar un proyecto
+## <a name="exercise-2-manage-a-project"></a>Ejercicio 2: Administrar un proyecto
 
 Una de las ventajas de acceder a las capacidades de venta del proyecto en Project Operations es la posibilidad de crear un proyecto durante el proceso de venta. El proyecto creado será accesible desde otros registros de la venta como las ofertas de proyecto y los contratos de proyecto. 
 
 En este ejercicio, se encargará de algunas de las tareas iniciales relacionadas con el proyecto como definir los detalles del proyecto, definir un equipo de proyecto y hacer un esquema de las tareas del proyecto. 
 
 
-### Tarea 1: Administrar los datos básicos del proyecto. 
+### <a name="task-1-manage-basic-project-data"></a>Tarea 1: Administrar los datos básicos del proyecto. 
 
 1. Con el contrato de proyecto de **Implementación de seguridad global completa - sus iniciales** abierto, seleccione la pestaña **Relacionado**. 
 
@@ -178,7 +183,7 @@ En este ejercicio, se encargará de algunas de las tareas iniciales relacionadas
 6. Haga clic en el botón **Etapa siguiente** para avanzar a la etapa **Planificar**. 
 
  
-### Tarea 2: Crear un equipo de proyecto.
+### <a name="task-2-create-a-project-team"></a>Tarea 2: Crear un equipo de proyecto.
 
 Cada proyecto tendrá un equipo de miembros que ocuparán los diferentes roles necesarios en el proyecto. En esta tarea se definirán los recursos de los que se compondrá el equipo del proyecto. 
 
@@ -189,36 +194,36 @@ Cada proyecto tendrá un equipo de miembros que ocuparán los diferentes roles n
 
 3. Establezca el registro de miembros del equipo de la siguiente manera:
 
-	- **Nombre del puesto:** Ingeniero de robótica - sus iniciales
+    - **Nombre del puesto:** Ingeniero de robótica - sus iniciales
 
-	- **Recurso que se puede reservar:** Allison Dickson
+    - **Recurso que se puede reservar:** Allison Dickson
 
-	- **Rol:** Ingeniero de robótica
+    - **Rol:** Ingeniero de robótica
 
 4. Haga clic en la flecha junto al botón de Guardar y cerrar. En el menú que aparece, seleccione la opción **Guardar y crear nuevo.**
 
 5. Establezca el siguiente registro de miembros del equipo de la siguiente manera:
 
-	- **Nombre del puesto:** Ingeniero de software - sus iniciales
+    - **Nombre del puesto:** Ingeniero de software - sus iniciales
 
-	- **Recurso que se puede reservar:** Bob Kozak
+    - **Recurso que se puede reservar:** Bob Kozak
 
-	- **Rol:** Ingeniero de software
+    - **Rol:** Ingeniero de software
 
 6. Haga clic en la flecha junto al botón de Guardar y cerrar. En el menú que aparece, seleccione la opción **Guardar y crear nuevo.**
 
 7. Establezca el registro de miembros del equipo de la siguiente manera:
 
-	- **Nombre del puesto:** Técnico de redes - sus iniciales
+    - **Nombre del puesto:** Técnico de redes - sus iniciales
 
-	- **Recurso que se puede reservar:** Dianna Woodward
+    - **Recurso que se puede reservar:** Dianna Woodward
 
-	- **Rol:** Técnico de redes
+    - **Rol:** Técnico de redes
 
-8. Seleccione el botón **Guardar y cerrar**.
+8. Seleccione el botón **Guardar &amp; cerrar**.
 
 
-### Tarea 3: Definir el calendario de proyecto.
+### <a name="task-3-define-a-project-schedule"></a>Tarea 3: Definir el calendario de proyecto.
 
 Otra parte importante al definir un proyecto es definir las tareas y el calendario del proyecto. En esta tarea agregaremos tareas de proyecto y las asociaremos a diferentes roles. 
 
@@ -233,35 +238,35 @@ Otra parte importante al definir un proyecto es definir las tareas y el calendar
 
 5. Configure el elemento del siguiente modo:
 
-	- **Nombre:** Creación de un diseño del sistema
+    - **Nombre**: Creación de un diseño del sistema
 
-	- **Esfuerzo:** 25
+    - **Esfuerzo:** 25
 
 6. En la barra de herramientas de la subcuadrícula Programar, seleccione el botón **+ Agregar** de nuevo para agregar otra tarea. 
 
 7. Configure el elemento del siguiente modo:
 
-	- **Nombre:** Diseñar cámaras
+    - **Nombre**: Diseñar cámaras
 
-	- **Predecesor:** Creación de un diseño del sistema
+    - **Predecesor:** Creación de un diseño del sistema
 
-	- **Esfuerzo:** 50
+    - **Esfuerzo:** 50
 
 8. En la barra de herramientas de la subcuadrícula Programar, seleccione el botón **+ Agregar** de nuevo para agregar una última tarea. 
 
 9. Configure el elemento del siguiente modo:
 
-	- **Nombre:** Comprobar y aprobar el diseño
+    - **Nombre**: Comprobar y aprobar el diseño
 
-	- **Predecesor:** Diseñar cámaras
+    - **Predecesor:** Diseñar cámaras
 
-	- Esfuerzo: 8 
+    - Esfuerzo: 8 
 
  
 **Nota:** Manténgase en la pestaña programar ya que haremos modificaciones adicionales en la siguiente tarea. 
 
 
-### Tarea 4: Asociar recursos con un proyecto.
+### <a name="task-4-associate-resources-with-a-project"></a>Tarea 4: Asociar recursos con un proyecto.
 
 Como parte de definir el calendario de proyecto, puede especificar el tipo de recursos que serán utilizados para satisfacer las necesidades de personal. Puede tratarse de recrusos con nombres o recursos genéricos que serán reemplazados por recursos con nombre más adelante. En esta tarea, definirá tanto recursos con nombre como genéricos para las tareas del proyecto que ha creado. 
 
@@ -273,11 +278,11 @@ Como parte de definir el calendario de proyecto, puede especificar el tipo de re
 
 4. Establezca el miembro del equipo de la siguiente manera
 
-	- **Nombre del puesto:** Ingeniero de robótica genérico - sus iniciales
+    - **Nombre del puesto:** Ingeniero de robótica genérico - sus iniciales
 
-	- **Recurso que se puede reservar:** Recurso genérico
+    - **Recurso que se puede reservar:** Recurso genérico
 
-	- **Rol:** Ingeniero de robótica
+    - **Rol:** Ingeniero de robótica
 
 5. Seleccione el botón **Guardar y cerrar**. 
 
@@ -289,11 +294,11 @@ Como parte de definir el calendario de proyecto, puede especificar el tipo de re
 
 9. Establezca el miembro del equipo de la siguiente manera:
 
-	- **Nombre del puesto:** Ingeniero de robótica genérico - sus iniciales
+    - **Nombre del puesto:** Ingeniero de robótica genérico - sus iniciales
 
-	- **Recurso que se puede reservar:** Recurso genérico
+    - **Recurso que se puede reservar:** Recurso genérico
 
-	- **Rol:** Ingeniero de robótica
+    - **Rol:** Ingeniero de robótica
 
 10. Seleccione el botón **Guardar y cerrar**. 
 

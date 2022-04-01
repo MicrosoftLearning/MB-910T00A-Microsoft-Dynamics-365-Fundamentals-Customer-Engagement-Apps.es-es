@@ -1,17 +1,22 @@
 ---
 lab:
-    title: 'Laboratorio 1.7: Laboratorio de proyecto final de Dynamics 365 Marketing'
-    module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'
+  title: 'Laboratorio 1.7: Laboratorio de proyecto final de Dynamics 365 Marketing'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: d61461c69044ff558890f6f95990c705863e646d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909068"
 ---
-
-Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Módulo 1: Aspectos básicos de Dynamics 365 Marketing
 ========================
 
-## Laboratorio de prácticas 1.7: Laboratorio de proyecto final de Dynamics 365 Marketing
+## <a name="practice-lab-17---dynamics-365-marketing-capstone-lab"></a>Laboratorio de prácticas 1.7: Laboratorio de proyecto final de Dynamics 365 Marketing
 
 **Nota:** Los correos electrónicos de marketing no se pueden crear ni editar en Internet Explorer. Use Microsoft Edge o Google Chrome para completar este ejercicio.
 
-## Escenario de laboratorio
+## <a name="lab-scenario"></a>Escenario de laboratorio
 
 La compañía ABC está especializada en la fabricación, venta, instalación y reparaciones de equipos de seguridad. Sus productos incluyen cámaras de seguridad para interiores y exteriores, sensores de humedad e incendios, servicios de supervisión y más. 
 
@@ -39,11 +44,11 @@ el proceso de instalación del equipo de seguridad comprado varía en función d
 
 - **Clientes empresariales:** las implementaciones en empresas pueden llevar meses y se requiere un director del proyecto para supervisar las operaciones del día a día. Esto incluye la creación de planes de proyecto, definición de equipos de proyecto y la programación de recursos. 
 
-**Servicio y soporte:**
+**Servicio y soporte técnico:**
 
 una vez instalados los sistemas, la compañía ABC proporciona soporte posventa. Si un cliente tiene un problema, puede contactar con soporte al cliente. Un agente trabajará con el cliente de forma remota para resolver el problema. Si el problema no se puede resolver de forma remota, el agente de soporte puede escalar el problema a una orden de trabajo que se asignará a un técnico de servicio cualificado para que se encargue de ella. 
 
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 La compañía ABC se dirige a sus clientes residenciales de forma directa a través de campañas de marketing dirigidas. Los clientes se eligen en función de su ciudad y otros factores. Los materiales de marketing se envían por correo electrónico y se guían en función de la interacción con el mismo. 
 
@@ -57,13 +62,13 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 - Crear un recorrido del cliente que aproveche su correo electrónico de marketing y su segmento de cliente. 
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
   - **Tiempo estimado**: 45 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
-## Ejercicio 1: Crear un correo electrónico de marketing
+## <a name="exercise-1-create-a-marketing-email"></a>Ejercicio 1: Crear un correo electrónico de marketing
 
 1. Si es necesario, abra la aplicación Dynamics 365 Marketing. 
 
@@ -119,31 +124,31 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 27. Si ha usado la misma dirección de correo electrónico para ambos contactos, recibirá una alerta **Registros duplicados encontrados**. Seleccione **Ignorar y guardar**.
 
-## Ejercicio 2: Crear un segmento en Dynamics 365 Marketing
+## <a name="exercise-2-create-a-segment-in-dynamics-365-marketing"></a>Ejercicio 2: Crear un segmento en Dynamics 365 Marketing
 
-### Tarea 1: Agregar algunos contactos de ejemplo con los que trabajar 
+### <a name="task-1-add-some-sample-contacts-to-work-with"></a>Tarea 1: Agregar algunos contactos de ejemplo con los que trabajar 
 
 1. Con la navegación de la izquierda, seleccione Contactos, debajo del grupo de clientes
 
-2. En la Barra de comandos, seleccione **Nuevo**.
+2. En la barra de comandos, haga clic en **Nuevo**.
 
 3. Complete la página de **Nuevo contacto** como sigue.
 
-	- **Nombre**: Piper 
+    - **Nombre**: Piper 
 
-	- **Apellidos**: Smith – Sus iniciales
+    - **Apellidos**: Smith – Sus iniciales
 
-	- **Correo electrónico**: Escriba una dirección de correo electrónico en la que pueda recibir correos.
+    - **Correo electrónico**: Escriba una dirección de correo electrónico en la que pueda recibir correos.
 
-	- **Calle 1 de dirección 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
+    - **Calle 1 de dirección 1**: 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	- **Dirección 1: Ciudad**: Seattle
+    - **Dirección 1: Ciudad**: Seattle
 
-	- **Estado de dirección 1:** WA
+    - **Estado de dirección 1:** Washington
 
-	- **Código Postal de dirección 1:** 98001
+    - **Código postal de dirección 1:** 98001
 
-4. Cuando complete el contacto, seleccione **Guardar y cerrar**.
+4. Cuando complete el contacto, seleccione **Guardar &amp; cerrar**.
 
 5. A continuación, le agregaremos a usted mismo como contacto, para que tenga varias personas con las que trabajar. 
 
@@ -151,29 +156,29 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 7. Rellene el segundo contacto como sigue:
 
-	- **Nombre**: Su nombre
+    - **Nombre**: Su nombre
 
-	- **Apellidos**: Su dirección de correo electrónico
+    - **Apellidos**: Su dirección de correo electrónico
 
-	- **Correo electrónico**: Escriba una dirección de correo electrónico en la que pueda recibir correos.
+    - **Correo electrónico**: Escriba una dirección de correo electrónico en la que pueda recibir correos.
 
-	- **Calle 1 de dirección 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
+    - **Calle 1 de dirección 1**: 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	- **Dirección 1: Ciudad**: Seattle
+    - **Dirección 1: Ciudad**: Seattle
 
-	- **Estado de dirección 1:** WA
+    - **Estado de dirección 1:** Washington
 
-	- **Código Postal de dirección 1:** 98001
+    - **Código postal de dirección 1:** 98001
 
 **NOTA:** Utilizamos la misma dirección para facilitar el reconocimiento de los contactos como datos de ejemplo. 
 
-### Tarea 2: Crear un segmento de clientes
+### <a name="task-2-create-a-customer-segment"></a>Tarea 2: Crear un segmento de clientes
 
 La creación de un segmento de cliente nos permitirá definir los clientes a los que queremos dirigir diferentes acciones de marketing. 
 
 1. Con la navegación de la izquierda, seleccione **Segmentos**, debajo del grupo de **Clientes**. 
 
-2. En la Barra de comandos, seleccione **Nuevo**.
+2. En la barra de comandos, haga clic en **Nuevo**.
 
 3. Como teníamos la membresía para cambiar a medida que se agregan, eliminan o editan contactos, seleccionaremos **Nuevo segmento dinámico** del menú que aparece. 
 
@@ -203,31 +208,31 @@ La creación de un segmento de cliente nos permitirá definir los clientes a los
 
 16. Ahora debería ver que se ha agregado la pestaña **Miembros**.
 
-### Tarea 3: Probar el segmento de clientes
+### <a name="task-3-test-your-customer-segment"></a>Tarea 3: Probar el segmento de clientes
 
 Ahora que lo creamos con éxito, comprobemos que el segmento dinámico se rellene correctamente a medida que se agreguen o eliminen contactos. Para ello, crearemos un nuevo contacto que viva en Seattle. 
 
 1. Con la navegación de la izquierda, seleccione **Contactos**, debajo del grupo de clientes
 
-2. En la Barra de comandos, seleccione **Nuevo**.
+2. En la barra de comandos, haga clic en **Nuevo**.
 
 3. Complete la página de **Nuevo contacto** como sigue.
 
-	- **Nombre**: Rick
+    - **Nombre**: Rick
 
-	- **Apellidos**: Jones – Sus iniciales
+    - **Apellidos**: Jones – Sus iniciales
 
-	- **Correo electrónico**: Escriba una dirección de correo electrónico en la que pueda recibir correos.
+    - **Correo electrónico**: Escriba una dirección de correo electrónico en la que pueda recibir correos.
 
-	- **Calle 1 de dirección 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
+    - **Calle 1 de dirección 1**: 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	- **Dirección 1: Ciudad**: Seattle
+    - **Dirección 1: Ciudad**: Seattle
 
-	- **Estado de dirección 1:** WA
+    - **Estado de dirección 1:** Washington
 
-	- **Código Postal de dirección 1:** 98001
+    - **Código postal de dirección 1:** 98001
 
-4. Cuando complete el contacto, seleccione **Guardar y cerrar**.
+4. Cuando complete el contacto, seleccione **Guardar &amp; cerrar**.
 
 5. Con la navegación de la izquierda, seleccione **Segmentos**, debajo del grupo de **Clientes**. 
 
@@ -237,7 +242,7 @@ Ahora que lo creamos con éxito, comprobemos que el segmento dinámico se rellen
 
 **IMPORTANTE:** Como trabajamos en un entorno compartido y todos trabajan en el mismo sistema, puede que también vea otros contactos en el segmento de marketing dinámico. Está bien para los fines de este curso. 
 
-## Ejercicio 3: Crear un recorrido del cliente
+## <a name="exercise-3-create-a-customer-journey"></a>Ejercicio 3: Crear un recorrido del cliente
 
 Ahora que creamos el contenido de marketing que queremos ofrecer y definimos un segmento de clientes al que dirigirnos, estamos listos para crear un recorrido del cliente para dirigirnos a los clientes. 
 
@@ -253,11 +258,11 @@ Ahora que creamos el contenido de marketing que queremos ofrecer y definimos un 
 
 6. Escriba el texto **Seattle** y seleccione el segmento **Clientes de Seattle** que creó anteriormente. 
 
-7. En el lienzo de diseño, mueva el cursor entre **Inicio** y **Fin**. Seleccione el signo **+**, en el menú que aparece y seleccione **Enviar un correo electrónico**.
+7. En el lienzo de diseño, mueva el cursor entre **Inicio** y **Fin**. Seleccione el signo **+** , en el menú que aparece y seleccione **Enviar un correo electrónico**.
 
 8. Escriba el texto **Inicio** y seleccione el mensaje de correo electrónico de marketing **Seguridad en el hogar – Sus iniciales** que creó en el ejercicio 1. 
 
-9. Mueva el cursor después de la acción enviar un correo electrónico. Seleccione el signo **+**, en el menú que aparece y seleccione **If/Then**.
+9. Mueva el cursor después de la acción enviar un correo electrónico. Seleccione el signo **+** en el menú que aparece y seleccione **If/Then**.
 
 10. En el área **If/Then** en la parte izquierda de la pantalla, bajo condiciones haga clic en el campo **Seleccionar una fuente**. 
 
@@ -265,19 +270,19 @@ Ahora que creamos el contenido de marketing que queremos ofrecer y definimos un 
 
 12. Haga clic en el campo **Seleccionar una condición**. Elija **un vínculo que se haya pulsado**.
 
-13. En la ruta **Sí**, seleccione el signo **+**. En el menú que aparece, seleccione **Crear cliente potencial**.
+13. En la ruta **Sí**, seleccione el signo **+** . En el menú que aparece, seleccione **Crear cliente potencial**.
 
 14. No modifique ni agregue nada a la ruta **No**. 
 
-15. Seleccione la pestaña general situada en la parte superior del registro del recorrido del cliente. Escriba la siguiente información en la pestaña **General**:
+15. Seleccione la pestaña General situada en la parte superior del registro del recorrido del cliente. Escriba la siguiente información en la pestaña **General**:
 
-	- **Nombre**: Promoción de otoño para la zona de Seattle – Sus iniciales
+    - **Nombre**: Promoción de otoño para la zona de Seattle – Sus iniciales
 
-	- **Fecha y hora de inicio**: Escriba la fecha de hoy
+    - **Fecha y hora de inicio**: Escriba la fecha de hoy
 
-	- **Fecha y hora de finalización**: Dentro de un mes
+    - **Fecha y hora de finalización**: Dentro de un mes
 
-	- **Zona horaria**: Seleccione su zona horaria local 
+    - **Zona horaria**: Seleccione su zona horaria local 
 
 16. En la Barra de comandos, seleccione **Guardar** para guardar el trabajo que haya realizado hasta el momento.
 

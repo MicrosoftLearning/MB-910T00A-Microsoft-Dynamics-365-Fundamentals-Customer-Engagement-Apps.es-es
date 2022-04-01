@@ -1,15 +1,20 @@
 ---
 lab:
-    title: 'Laboratorio 5.2: Administrar una oportunidad basada en proyecto'
-    module: 'Módulo 5: Aprender los fundamentos de Dynamics 365 Project Operations'
+  title: 'Laboratorio 5.2: Administrar una oportunidad basada en proyecto'
+  module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
+ms.openlocfilehash: 8d6402de96013463e0f122c4bb9dc15f35994787
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908949"
 ---
-
-Módulo 5: Aprender los Fundamentos de Dynamics 365 Project Operations
+<a name="module-5-learn-the-fundamentals-of-dynamics-365-project-operations"></a>Módulo 5: Aprender los Fundamentos de Dynamics 365 Project Operations
 ========================
 
-## Laboratorio de prácticas 5.2: Administrar una oportunidad basada en proyecto
+## <a name="practice-lab-52---manage-a-project-based-opportunity"></a>Laboratorio de prácticas 5.2: Administrar una oportunidad basada en proyecto
 
-## Escenario de laboratorio
+## <a name="lab-scenario"></a>Escenario de laboratorio
 
 La compañía ABC está especializada en la fabricación, venta, instalación y reparaciones de equipos de seguridad. Sus productos incluyen cámaras de seguridad para interiores y exteriores, sensores de humedad e incendios, servicios de supervisión y más. 
 
@@ -37,10 +42,10 @@ el proceso de instalación del equipo de seguridad comprado varía en función d
 
 - **Clientes empresariales:** las implementaciones en empresas pueden llevar meses y se requiere un director del proyecto para supervisar las operaciones del día a día. Esto incluye la creación de planes de proyecto, definición de equipos de proyecto y la programación de recursos. 
 
-**Servicio y soporte:**
+**Servicio y soporte técnico:**
 
 una vez instalados los sistemas, la compañía ABC proporciona soporte posventa. Si un cliente tiene un problema, puede contactar con soporte al cliente. Un agente trabajará con el cliente de forma remota para resolver el problema. Si el problema no se puede resolver de forma remota, el agente de soporte puede escalar el problema a una orden de trabajo que se asignará a un técnico de servicio cualificado para que se encargue de ella. 
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 Los comerciales de la compañía ABC se centran en clientes que necesitan una solución empresarial más especializada y a su medida. Por esto, en sus ventas a empresas se suelen implicar varias ubicaciones con comunicación conjunta y son necesarios múltiples recursos para completar el proyecto. Los ciclos de venta de la compañía ABC llevan muchos meses y requieren la movilización de varias partes para su implementación. 
 
@@ -52,15 +57,15 @@ Tras completar el laboratorio, habrá completado los siguientes procesos:
 
 - Calificar y convertir un cliente potencial en oportunidad de proyecto.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
   - **Tiempo estimado**: 20 minutos
   
-## Ejercicio 1: Administrar una oportunidad basada en proyecto 
+## <a name="exercise-1-manage-a-project-based-opportunity"></a>Ejercicio 1: Administrar una oportunidad basada en proyecto 
 
 Ahora que ha creado una oportunidad de proyecto basada en un cliente potencial basado en proyecto, utilizaremos la oportunidad para definir detalles del proyecto de alto nivel. Esto incluye definir productos y elementos de trabajo y también estimaciones de ventas. 
 
-### Tarea 1: Administrar una oportunidad de ventas 
+### <a name="task-1-manage-a-sales-opportunity"></a>Tarea 1: Administrar una oportunidad de ventas 
 
 1. En el panel izquierdo de la pantalla, seleccione **Oportunidades**. 
 
@@ -68,11 +73,11 @@ Ahora que ha creado una oportunidad de proyecto basada en un cliente potencial b
 
 3. En el encabezado de la oportunidad **Completar implementación de seguridad global - sus iniciales** en la parte superior del registro, seleccione la flecha hacia abajo junto al campo del propietario. 
 
-4. Complete los siguientes pasos:
+4. Realice los pasos siguientes:
 
-	- **Fecha de cierre estimada:** mañana
+    - **Fecha de cierre estimada:** mañana
 
-	- **Beneficios estimados:** 250.000,00
+    - **Ingresos estimados:** 250 000,00
 
 5. En el flujo del proceso de negocio de cliente potencial a oportunidad, seleccione la etapa **Desarrollar**. Tenga en cuenta que debe identificar las partes interesadas y los competidores.
 
@@ -86,7 +91,7 @@ Ahora que ha creado una oportunidad de proyecto basada en un cliente potencial b
 
 10. En la subcuadrícula Competidores, seleccione los **tres puntos verticales**. En el menú que aparece, seleccione **Agregar competidor existente**. 
 
-11. Busque y seleccione **Coho Security**. (Si Coho Security no existe, seleccione **Nuevo registro** y después **Competidores**, si no, proceda al paso 15**.**).  
+11. Busque y seleccione **Coho Security**. (Si Coho Security no existe, seleccione **Nuevo registro** y después **Competidores**, si no, proceda al paso 15) **.**  
 
 12. En la creación rápida: En la pantalla **Competidor**, escriba **Coho Security - “sus iniciales”** en el campo **Nombre**.
 
@@ -106,29 +111,29 @@ Ahora que ha creado una oportunidad de proyecto basada en un cliente potencial b
 
 20. De la subcuadrícula Partidas basadas en proyecto, seleccione el botón Agregar nueva línea de oportunidad. Configure la nueva línea de oportunidad del siguiente modo:
 
-	- **Tipo de producto:** Servicio basado en proyecto
+    - **Tipo de producto:** Servicio basado en proyecto
 
-	- **Oportunidad:** Implementación de seguridad global completa - sus iniciales
+    - **Oportunidad:** Implementación de seguridad global completa - sus iniciales
 
-	- **Nombre:** Desarrollo de sistema
+    - **Nombre**: Desarrollo de sistema
 
-	- **Presupuesto del cliente:** 25.000
+    - **Presupuesto del cliente:** 25 000
 
-	- **Método de facturación:** Precio fijo
+    - **Método de facturación:** Precio fijo
 
-21. Seleccione **Guardar y cerrar**
+21. Seleccione **Guardar &amp; cerrar**.
 
 22. De la subcuadrícula **Líneas basadas en proyecto**, seleccione el botón **Agregar nueva línea de oportunidad** para agregar otra línea presupuestaria.   
 Configure la nueva línea de oportunidad del siguiente modo:
 
-	- **Tipo de producto:** Servicio basado en proyecto
+    - **Tipo de producto:** Servicio basado en proyecto
 
-	- **Oportunidad:** Implementación de seguridad global completa - sus iniciales
+    - **Oportunidad:** Implementación de seguridad global completa - sus iniciales
 
-	- **Nombre:** Implementación de sistema 
+    - **Nombre**: Implementación de sistema 
 
-	- **Presupuesto del cliente:** 100000 
+    - **Presupuesto del cliente:** 100 000 
 
-	- **Método de facturación:** Tiempo y material
+    - **Método de facturación:** Tiempo y material
 
-23. Seleccione **Guardar y cerrar**
+23. Seleccione **Guardar &amp; cerrar**.

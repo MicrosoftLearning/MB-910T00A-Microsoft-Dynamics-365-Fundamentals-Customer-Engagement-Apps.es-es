@@ -1,23 +1,28 @@
 ---
 lab:
-    title: 'Laboratorio 1.4: Buscar y filtrar datos'
-    module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'
+  title: 'Laboratorio 1.4: Buscar y filtrar datos'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 523e40bcfed281ae3f86ed21428163f603cc7f2d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909028"
 ---
-
-Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Módulo 1: Aspectos básicos de Dynamics 365 Marketing
 ========================
 
-## Laboratorio de prácticas 1.4: Buscar y filtrar datos
+## <a name="practice-lab-14---search-and-filter-data"></a>Laboratorio de prácticas 1.4: Buscar y filtrar datos
 
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
-Localizar datos en la aplicación es casi una tarea diaria. Cuanto más eficiente sea la búsqueda, más rápida será la administración de las consultas de los clientes y la navegación por la aplicación en general.  Este laboratorio le guiará a través del proceso.
+Localizar datos en la aplicación es casi una tarea diaria. Cuanto más eficiente sea la búsqueda, más rápida será la gestión de las consultas de los clientes y la navegación por la aplicación en general.  Este laboratorio le guiará a través del proceso.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
   - **Tiempo estimado**: 15 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
 En este ejercicio, aprovechará las capacidades de búsqueda y filtrado de Dynamics 365 para localizar y trabajar con diferentes registros. 
 
@@ -41,17 +46,17 @@ En este ejercicio, aprovechará las capacidades de búsqueda y filtrado de Dynam
 
 10. Seleccione el vínculo **Contoso Corporate** para abrir el registro. 
 
-11. En **Registro de escala de tiempo** en la mitad de la pantalla, seleccione el **icono del signo más** para agregar una nueva actividad. 
+11. En **Registro de escala de tiempo** en la mitad de la pantalla, seleccione el icono **+** para agregar una nueva actividad. 
 
 12. En el menú que aparece, seleccione **Tarea**.
 
 13. Complete el formulario de **Creación rápida de tareas** de la siguiente manera:
 
-	- **Asunto:** Enviar materiales de marketing - Sus iniciales
+    - **Firmante:** Enviar materiales de marketing - Sus iniciales
 
-	- **Vencimiento:** Mañana a las 8:30 a. m.
+    - **Vencimiento:** Mañana a las 8:30 a. m.
 
-	- **Prioridad:** Alta
+    - **Priority:** Alto
 
 14. Seleccione el botón **Guardar y cerrar**.
 

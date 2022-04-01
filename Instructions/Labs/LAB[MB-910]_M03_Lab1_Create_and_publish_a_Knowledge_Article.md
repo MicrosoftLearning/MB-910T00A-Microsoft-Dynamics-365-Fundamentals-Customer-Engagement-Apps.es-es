@@ -1,19 +1,24 @@
 ---
 lab:
-    title: 'Laboratorio 3.1: Crear y publicar un artículo de conocimiento en Dynamics 365 Customer Service'
-    module: 'Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service'
+  title: 'Laboratorio 3.1: Crear y publicar un artículo de conocimientos en Dynamics 365 Customer Service'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909097"
 ---
-
-Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Módulo 3: Aspectos básicos de Dynamics 365 Customer Service
 ========================
 
-## Laboratorio de prácticas 3.1: Crear y publicar un artículo de conocimiento en Dynamics 365 Customer Service
+## <a name="practice-lab-31---create-and-publish-a-knowlege-article-in-dynamics-365-customer-service"></a>Laboratorio de prácticas 3.1: Crear y publicar un artículo de conocimiento en Dynamics 365 Customer Service
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
   - **Tiempo estimado**: 15 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
 1. Si aún no lo ha hecho, abra la aplicación **Dynamics 365 Customer Service Hub**. 
 
@@ -33,27 +38,27 @@ Módulo 3: Aprender los fundamentos de Dynamics 365 Customer Service
 
 8. Complete el artículo del siguiente modo:
 
-	- **Título:** Pieza rota al llegar - sus iniciales
+    - **Título:** Pieza rota al llegar - sus iniciales
 
-	- **Palabras clave:** Pieza rota, dañada, devolver
+    - **Palabras clave:** Pieza rota, dañada, devolver
 
-	- **Descripción:** Ayuda a resolver problemas si una pieza llega dañada. 
+    - **Descripción:** Ayuda a resolver problemas si una pieza llega dañada. 
 
 9. Escriba el siguiente texto en el diseñador de contenido.   
 ‎  
-‎	Pieza recibida rota
+Pieza recibida dañada
 
-	Si recibe una pieza rota, haga lo siguiente:
+    Si recibe una pieza rota, haga lo siguiente:
 
-	1. Abra nuestro portal web
+    1. Abra nuestro portal web
 
-	2. Localize el registro de su orden
+    2. Localize el registro de su orden
 
-	3. Seleccione Devolver artículo
+    3. Seleccione Devolver artículo
 
-	4. Seleccione “dañado” como razón
+    4. Seleccione “dañado” como razón
 
-	5. Seleccione Imprimir
+    5. Seleccione Imprimir
 
 Una vez hayamos recibido la pieza devuelta/dañada, le será reembolsado el importe en su cuenta.
 
@@ -83,7 +88,7 @@ Después de que el autor cree el registro, pasará por un proceso de aprobación
 
 20. En la **Barra de comandos** en la parte superior del artículo, seleccione **los tres puntos verticales** en el lado izquierdo de la barra. En el menú que aparece, seleccione **Relacionar producto**. 
 
-21. En la ventana **Relacionar producto**, seleccione **Office 365 para empresas (Ejemplo)**.
+21. En la ventana **Relacionar producto**, seleccione **Office 365 para empresas (Ejemplo)** .
 
 22. Seleccione el botón **Asociar**. 
 
@@ -99,16 +104,16 @@ Después de que el autor cree el registro, pasará por un proceso de aprobación
 
 28. Confirme que está seleccionado lo siguiente:
 
-	- **Publicar:** Ahora
+    - **Publicar:** Actuales
 
-	- **Estado de publicación:** Publicado
+    - **Estado de publicación:** Publicado
 
-	- **Fecha de expiración:** Un año a partir de hoy a las 0:00
+    - **Fecha de expiración:** Un año a partir de hoy a las 0:00
 
-	- **Estado de expiración:** Expirada
+    - **Estado de expiración:** Expirada
 
-	- **Estado de expiración:** Expirada
+    - **Estado de expiración:** Expirada
 
-	- **Publicar traducciones aprobadas:** No
+    - **Publicar traducciones aprobadas:** No
 
 

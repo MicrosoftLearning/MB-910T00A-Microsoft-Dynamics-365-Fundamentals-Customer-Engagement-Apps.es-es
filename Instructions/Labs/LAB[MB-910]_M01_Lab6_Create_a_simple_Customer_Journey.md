@@ -1,23 +1,28 @@
 ---
 lab:
-    title: 'Laboratorio 1.6: Crear un recorrido del cliente sencillo'
-    module: 'Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing'
+  title: 'Laboratorio 1.6: Crear un recorrido del cliente sencillo'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 3ab6783be7050e95a06ffda711017e0ca455125a
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: es-ES
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137909007"
 ---
-
-Módulo 1: Aprender los fundamentos de Dynamics 365 Marketing
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>Módulo 1: Aspectos básicos de Dynamics 365 Marketing
 ========================
 
-## Laboratorio de prácticas 1.6: Crear un recorrido del cliente sencillo.
+## <a name="practice-lab-16---create-a-simple-customer-journey"></a>Laboratorio de prácticas 1.6: Crear un recorrido del cliente sencillo.
 
-## Objetivos
+## <a name="objectives"></a>Objetivos
 
 En este ejercicio comprobará que los recorridos del cliente son un componente clave de Dynamics 365 Marketing. Creará un recorrido del cliente para servir de base a todo esfuerzo de marketing por guiar la ruta que sigue un cliente mientras interactúa con el proceso de marketing de la organización. El objetivo es que cuando el recorrido esté completo, se convierta en ingresos.
 
-## Configuración del laboratorio
+## <a name="lab-setup"></a>Configuración del laboratorio
 
-  - **Tiempo estimado**: 10 minutos
+  - **Tiempo estimado**: 10 minutos
 
-## Instrucciones
+## <a name="instructions"></a>Instrucciones
 
 **Nota:** Los correos electrónicos de marketing no se pueden crear ni editar en Internet Explorer. Use Microsoft Edge o Google Chrome para completar este ejercicio.
 
@@ -37,7 +42,7 @@ En este ejercicio comprobará que los recorridos del cliente son un componente c
 
 7. Se abre la página **Nuevo recorrido del cliente** y allí se muestra el cuadro de diálogo **Seleccione una plantilla de recorrido del cliente**. Seleccione **Omitir** para empezar a crear el recorrido desde cero.
 
-8. Seleccione **Establecer público** (o, alternativamente, seleccione **+**). Seleccione el segmento de clientes de Chicago que creó en el ejercicio anterior. El primer mosaico se rellena con el nombre del segmento y el panel de **Público** muestra las propiedades del segmento.
+8. Seleccione **Establecer público** (o, alternativamente, seleccione **+** ). Seleccione el segmento de clientes de Chicago que creó en el ejercicio anterior. El primer mosaico se rellena con el nombre del segmento y el panel de **Público** muestra las propiedades del segmento.
 
 9. Seleccione **+** en la calle Contactos de Chicago y luego seleccione **Enviar un correo electrónico** en el menú contextual.
 
@@ -45,13 +50,13 @@ En este ejercicio comprobará que los recorridos del cliente son un componente c
 
 11. Seleccione la pestaña General situada en la parte superior del registro del recorrido del cliente. Escriba la siguiente información en la pestaña **General**:
 
-	- **Nombre**: Chicago Customer Journey
+    - **Nombre**: Chicago Customer Journey
 
-	- **Fecha y hora de inicio**: Escriba la fecha de hoy
+    - **Fecha y hora de inicio**: Escriba la fecha de hoy
 
-	- **Fecha y hora de finalización**: Dentro de un mes
+    - **Fecha y hora de finalización**: Dentro de un mes
 
-	- **Zona horaria**: Seleccione su zona horaria local 
+    - **Zona horaria**: Seleccione su zona horaria local 
 
 12. En la Barra de comandos, seleccione **Guardar** para guardar el trabajo que haya realizado hasta el momento.
 
