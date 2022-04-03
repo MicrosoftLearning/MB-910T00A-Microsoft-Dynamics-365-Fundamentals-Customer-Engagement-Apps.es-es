@@ -2,12 +2,12 @@
 lab:
   title: 'Laboratorio 3.1: Crear y publicar un artículo de conocimientos en Dynamics 365 Customer Service'
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: accc3885619d7949364937badba113de68163ce7
+ms.sourcegitcommit: 20016ceee38b42fe1b81573e65ab9cdb0d17eba2
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909097"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "141142005"
 ---
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Módulo 3: Aspectos básicos de Dynamics 365 Customer Service
 ========================
@@ -26,9 +26,9 @@ ms.locfileid: "137909097"
 
 3. Para ver fácilmente qué artículos se encuentran en qué etapas, haga clic en el desplegable junto a **Mis artículos activos**. 
 
-4. Seleccione la vista **Artículos de borrador**. 
+4. Seleccione **Artículos en borrador**. Verá dos artículos en borrador.
 
-5. Seleccione **Artículos aprobados**. 
+5. Seleccione **Artículos aprobados**. Verá al menos un artículo aprobado.  
 
 6. Vuelva a **Mis artículos activos**.
 
@@ -60,9 +60,9 @@ Pieza recibida dañada
 
     5. Seleccione Imprimir
 
-Una vez hayamos recibido la pieza devuelta/dañada, le será reembolsado el importe en su cuenta.
+    Una vez hayamos recibido la pieza devuelta/dañada, le será reembolsado el importe en su cuenta.
 
-**NOTA:** Puede agregar formato al texto si lo desea. 
+    **NOTA:** Puede agregar formato al texto si lo desea. 
 
 10. En la **Barra de comandos**, seleccione el botón **Guardar** para guardar el Artículo de conocimientos y dejarlo abierto. 
 
@@ -115,5 +115,7 @@ Después de que el autor cree el registro, pasará por un proceso de aprobación
     - **Estado de expiración:** Expirada
 
     - **Publicar traducciones aprobadas:** No
+    
+29. Haga clic en el botón **Publicar** para publicar el artículo.
 
 
