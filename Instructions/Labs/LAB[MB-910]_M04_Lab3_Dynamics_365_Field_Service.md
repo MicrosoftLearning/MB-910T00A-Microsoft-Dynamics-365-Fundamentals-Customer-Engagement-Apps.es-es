@@ -2,12 +2,12 @@
 lab:
   title: 'Laboratorio 4.3: Laboratorio final de Dynamics 365 Field Service'
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: f3a0b281cf2f6b342b789bffa977d57de8b9dcf6
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: 6bddf66b1b4e4c11941e5b1f4b3c64e0ff5cbf8c
+ms.sourcegitcommit: 72aae532f6c367bd6e48570b827f7289171f2b31
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909087"
+ms.lasthandoff: 04/11/2022
+ms.locfileid: "141605553"
 ---
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>Módulo 4: Aspectos básicos de Dynamics 365 Field Service
 ========================
@@ -98,7 +98,7 @@ Hace poco, un cliente empresarial, Active Transport, Inc., contactó con el equi
 
  
 
-### <a name="task-2-manually-create-a-word-order"></a>Tarea 2: Crear una orden de trabajo de forma manual
+### <a name="task-2-manually-create-a-work-order"></a>Tarea 2: Crear órdenes de trabajo manualmente
 
 Volveremos al registro de caso que ha creado más adelante. Ahora examinemos cómo crear un registro de orden de trabajo de forma manual. 
 
