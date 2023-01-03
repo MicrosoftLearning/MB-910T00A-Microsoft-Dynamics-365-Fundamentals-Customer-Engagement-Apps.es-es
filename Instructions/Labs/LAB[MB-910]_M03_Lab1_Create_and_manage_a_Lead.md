@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Laboratorio 3.1: Crear y administrar un cliente potencial en Dynamics 365 Sales'
+  title: "Laboratorio\_3.1: Crear y administrar un cliente potencial en Dynamics\_365\_Sales"
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
-ms.openlocfilehash: 750ac8f84444e734bacc52adacb1c9b041959c7f
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405062"
 ---
+
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-sales"></a>Módulo 3: Aprender los fundamentos de Dynamics 365 Sales
 ========================
 
@@ -35,15 +30,15 @@ Durante este ejercicio, conseguirá un cliente potencial para Suzanne Burke. Ell
 
     - **Tema:** Búsqueda de equipamiento nuevo – Sus iniciales
 
-    - **Nombre:** Suzanne
+    - **Nombre:** Suzanne: tus iniciales
 
-    - **Apellidos:** Burke
+    - **Apellido:** Burke: tus iniciales
 
     - **Puesto:** DIRFIN
 
     - **Teléfono del trabajo:** 888 555-8715
 
-    - **Correo electrónico:** Suzanne@contososample.com
+    - **Correo electrónico:** Suzanne.YourInitials@contososample.com
 
     - **Empresa:** Contoso - Washington
 

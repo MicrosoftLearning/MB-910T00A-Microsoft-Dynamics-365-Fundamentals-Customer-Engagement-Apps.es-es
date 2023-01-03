@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Laboratorio 2.2: Crear un recorrido del cliente sencillo'
+  title: "Laboratorio\_2.2: Crear un recorrido del cliente sencillo"
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 6c9f21f684590ff84fa77cc19e70555c2e8c00be
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405059"
 ---
+
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>Módulo 2: Aprender los fundamentos de Dynamics 365 Marketing
 ========================
 
@@ -30,11 +25,12 @@ En este ejercicio comprobará que los recorridos del cliente son un componente c
 
 1. Si es necesario, abra la aplicación Dynamics 365 Marketing. 
 
-2. Con la navegación de la izquierda, seleccione **Correos electrónicos de marketing** en el grupo de ejecución de marketing
+2. Con el panel de navegación de la izquierda, cambia el área a **Marketing saliente** y selecciona **Correos electrónicos de marketing** en el grupo Ejecución de marketing.
 
 3. Localice y abra el correo electrónico de **Introducción a las sillas**.  
 
-4. En la parte superior de la **Barra de comandos**, seleccione el botón **Publicar**. 
+4. Si el correo electrónico **Introducción a sillas** ya está **activo**, ve al paso siguiente. 
+   Si no es así, selecciona el botón **Publicar** en la parte superior de la **Barra de comandos**. 
 
 5. Ahora que el correo electrónico está ubicado, utilice la navegación de la izquierda para seleccionar **Recorrido del cliente** en el grupo de ejecución de marketing.
 
@@ -50,7 +46,7 @@ En este ejercicio comprobará que los recorridos del cliente son un componente c
 
 11. Seleccione la pestaña **General** situada en la parte superior del registro del recorrido del cliente. Escriba la siguiente información en la pestaña **General**:
 
-    - **Nombre**: Recorrido del cliente de Chicago
+    - **Nombre**: Recorrido del cliente Redmond: tus iniciales
 
     - **Fecha y hora de inicio**: Escriba la fecha de hoy
 

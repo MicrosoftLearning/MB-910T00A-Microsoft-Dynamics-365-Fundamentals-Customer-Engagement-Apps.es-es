@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Laboratorio 3.2: Crear y administrar una oportunidad en Dynamics 365 Sales'
+  title: "Laboratorio\_3.2: Crear y administrar una oportunidad en Dynamics\_365\_Sales"
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
-ms.openlocfilehash: 9ca894a3eeccfdabb5a7fab3a2adc59751f174d8
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405102"
 ---
+
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-sales"></a>Módulo 3: Aprender los fundamentos de Dynamics 365 Sales
 ========================
 
@@ -71,19 +66,19 @@ En este ejercicio, se familiarizará con la forma de acceder a las aplicaciones 
 
 12. En la subcuadrícula de partes interesadas, observe que Suzanne Burke ya está definida como parte interesada. 
 
-13. En la subcuadrícula de equipo de ventas, seleccione los **Puntos suspensivos verticales**. En el menú que aparece, seleccione **Nueva conexión**. 
+13. En la subcuadrícula del equipo de ventas, seleccione **Nueva conexión**. Nota: Las subcuadrículas responden en el caso de que no haya suficiente espacio en pantalla. El botón lo podrás encontrar en el menú de **Puntos suspensivos verticales**.
 
 14. Busque y seleccione su registro de usuario. Una vez completado, haga clic en el botón **Agregar**. 
 
-15. En la subcuadrícula Competidores, seleccione los **tres puntos verticales**. En el menú que aparece, seleccione **Agregar competidor existente**. 
+15. En la subcuadrícula Competidores, selecciona **Agregar competidor existente**. Nota: Las subcuadrículas responden en el caso de que no haya suficiente espacio en pantalla. El botón lo podrás encontrar en el menú de **Puntos suspensivos verticales**.
 
 16. En la pantalla **Buscar registro**, seleccione **Nuevo registro** y luego **Competidores**.
 
-17. En la pantalla **Creación rápida de competidor**, establezca el campo **Nombre** en **Coho Technologies**.
+17. En la pantalla **Creación rápida de competidor**, establece el campo **Nombre** en **Coho Technologies - Tus iniciales**.
 
 18. Seleccione el botón **Guardar y cerrar**.
 
-19. **Coho Technologies** debe seleccionarse en la ventana de buscar registro. Haga clic en el botón **Agregar** para terminar de agregar el competidor. 
+19. **Coho Technologies - Tus iniciales** debe seleccionarse en la ventana de búsqueda de registro. Haga clic en el botón **Agregar** para terminar de agregar el competidor. 
 
 20. Seleccione la etapa **Desarrollar** en el flujo de proceso de negocio **Cliente potencial a oportunidad**. Establezca los pasos **Identificar partes interesadas** e **Identificar competidores** en **Completado**. 
 

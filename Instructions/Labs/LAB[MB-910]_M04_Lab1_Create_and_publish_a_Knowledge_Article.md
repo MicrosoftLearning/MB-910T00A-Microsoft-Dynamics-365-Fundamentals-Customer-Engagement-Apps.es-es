@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Laboratorio 4.1: Crear y publicar un artículo de conocimientos en Dynamics 365 Customer Service'
+  title: "Laboratorio\_4.1: Crear y publicar un artículo de conocimientos en Dynamics 365 Customer Service"
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 2e2c5b6947bb5b366c0daba9d37518981662b28b
-ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 09/06/2022
-ms.locfileid: "147855088"
 ---
+
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-customer-service"></a>Módulo 4: Descubrir los fundamentos de Dynamics 365 Customer Service
 ========================
 
@@ -22,13 +17,13 @@ ms.locfileid: "147855088"
 
 1. Si aún no lo ha hecho, abra la aplicación **Dynamics 365 Customer Service Hub**. 
 
-2. En el panel izquierdo de la pantalla, seleccione **Artículos de conocimientos**. 
+2. Selecciona **Artículos de conocimientos** en la sección **Conocimientos** del menú izquierdo. 
 
-3. Para ver fácilmente qué artículos se encuentran en qué etapas, haga clic en el desplegable junto a **Mis artículos activos**. 
+3. Para ver fácilmente qué artículos se encuentran en qué etapas, haga clic en el desplegable junto a **Mis artículos activos**. Ten en cuenta que es posible que no haya ningún artículo activo en la lista.
 
 4. Seleccione **Artículos en borrador**. 
 
-5. Seleccione **Artículos aprobados**. Verá al menos un artículo aprobado.  
+5. Seleccione **Artículos aprobados**. 
 
 6. Vuelva a **Mis artículos activos**.
 
@@ -66,7 +61,7 @@ Pieza recibida dañada
 
 11. En la **Barra de comandos**, seleccione el botón **Guardar** para guardar el Artículo de conocimientos y dejarlo abierto. 
 
-12. En **Nuevo proceso**, seleccione la etapa **Autor** y, después, establezca **Envío** (situado debajo de Servicio) en el campo **Asunto del artículo**. 
+12. En **Nuevo proceso**,selecciona la etapa **Autor** y, después, establece el campo **Asunto del artículo** como **Artículo predeterminado**. 
 
 13. Establezca el campo **Marcar para revisión** como **Completado**.
 
@@ -88,7 +83,7 @@ Después de que el autor cree el registro, pasará por un proceso de aprobación
 
 21. En la **Barra de comandos** en la parte superior del artículo, seleccione **los tres puntos verticales** en el lado izquierdo de la barra. En el menú que aparece, seleccione **Relacionar producto**. 
 
-22. En la ventana **Relacionar producto**, seleccione **Office 365 para empresas (Ejemplo)** .
+22. En el formulario **Relacionar producto**, en **Seleccionar producto con el que asociar**, selecciona **Office 365**.
 
 23. Seleccione el botón **Asociar**. 
 
@@ -100,22 +95,14 @@ Después de que el autor cree el registro, pasará por un proceso de aprobación
 
 27. Haga clic en el botón **Finalizar** para completar el proceso. 
 
-28. En la **Barra de comandos** del artículo, haga clic en **Publicar**. 
-
-29. Confirme que está seleccionado lo siguiente:
+28. En el formulario **Publicar**, confirma que está seleccionado lo siguiente:
 
     - **Publicar:** Actuales
 
     - **Estado de publicación:** Publicado
 
     - **Fecha de expiración:** Un año a partir de hoy a las 0:00
-
-    - **Estado de expiración:** Expirada
-
-    - **Estado de expiración:** Expirada
-
-    - **Publicar traducciones aprobadas:** No
     
-30. Haga clic en el botón **Publicar** para publicar el artículo.
+29. Haga clic en el botón **Publicar** para publicar el artículo.
 
-
+>[!Note] Los artículos de conocimientos publicados pueden tardar varios minutos en aparecer en la **Búsqueda de conocimientos**.
