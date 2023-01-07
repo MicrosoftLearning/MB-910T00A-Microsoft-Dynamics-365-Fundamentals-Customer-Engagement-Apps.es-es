@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Laboratorio 1.1: Trabajar con aplicaciones de interacción con el cliente'
+  title: "Laboratorio\_1.1: Trabajar con aplicaciones de interacción con el cliente"
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: b480ae2128d5735172f1d005f2ecbfcb3b8a53f9
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405033"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>Módulo 1: Examinar los fundamentos de Dynamics 365 (CRM)
 ========================
 
@@ -41,9 +36,9 @@ No dude en explorar el Centro de administración de Power Platform, pero no real
 
 2. Seleccione el entorno WWLLABnnn, donde nnn es un número. Este es el entorno compartido de Dynamics 365 donde realizará todos los laboratorios.
 
-3. Haga clic en Abrir entorno
+3. Haz clic en **Abrir** en el menú superior o en la dirección URL del entorno WWLLABnnn.
 
-4. Expanda el botón de cuadrícula del iniciador de aplicaciones de la parte superior izquierda de la pantalla, justo a la izquierda del Centro de administración de Power Platform. Seleccione la aplicación Dynamics 365 Marketing para iniciarla.
+4. Selecciona la aplicación **Marketing** para iniciarla.
 
 5. Explore el panel de navegación del lado izquierdo. El botón de la parte inferior del panel permite cambiar las áreas. Ahora mismo, está en el área Marketing.
 

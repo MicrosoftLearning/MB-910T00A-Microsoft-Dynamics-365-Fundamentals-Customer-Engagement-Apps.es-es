@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 'Laboratorio 1.2: Administrar clientes y actividades'
+  title: "Laboratorio\_1.2: Administrar clientes y actividades"
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: 886e0800f6747542fcd83ade072fb312ad922de4
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405026"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>Módulo 1: Examinar los fundamentos de Dynamics 365 (CRM)
 ========================
 
@@ -28,7 +23,7 @@ En este ejercicio, trabajará con registros comunes que usan todas las aplicacio
 
 1. Si aún no lo ha hecho, abra la aplicación **Centro de ventas de Dynamics 365**. 
 
-2. Con la navegación de la parte izquierda de la pantalla, seleccione **Cuentas**. 
+2. Selecciona **Cuentas** en la sección **Clientes** del menú izquierdo. 
 
 3. En la Barra de comandos de la parte superior de la pantalla, seleccione el botón **Nuevo**.
 
@@ -68,9 +63,9 @@ En este ejercicio, trabajará con registros comunes que usan todas las aplicacio
 
 9. Seleccione el botón **Guardar** para guardar el registro y dejarlo abierto. 
 
-10. Localice la **Subcuadrícula de contactos** en la parte derecha de la pantalla. 
+10. Localice la Subcuadrícula de contactos en la parte derecha de la pantalla.
 
-11. Seleccione la **Elipsis vertical** y, en el menú que aparece, seleccione **Nuevo contacto**. 
+11. Seleccione la **Elipsis vertical** y, en el menú que aparece, seleccione **Nuevo contacto**.
 
 12. Con el formulario **Creación rápida de contactos**, complete el contacto de la siguiente manera:
 
@@ -90,7 +85,7 @@ En este ejercicio, trabajará con registros comunes que usan todas las aplicacio
 
 16. En el menú que aparece, seleccione **Cita.**
 
-17. Complete la cita del siguiente modo:
+17. Completa el formulario **Creación rápida: Cita** de la siguiente manera:
 
     - **Firmante:** Reunión con Jackson
 
@@ -98,16 +93,14 @@ En este ejercicio, trabajará con registros comunes que usan todas las aplicacio
 
     - **Hora de finalización:** Mañana a las 11:00 
 
-18. Seleccione el botón **Guardar y cerrar**. 
+18. Seleccione el botón **Guardar y cerrar**.      
 
-19. En el teclado, pulse la tecla **F5** para actualizar la pantalla.     
+19. En la escala de tiempo del registro, selecciona **Ver más** en el registro **Cita** para mostrar más detalles.   
 
-20. En la escala de tiempo del registro, seleccione la **Cita** para mostrar sus detalles sobre.   
+20. Haz clic en el botón **Abrir registro**. 
 
-21. Seleccione el vínculo **Abrir cita**. 
+21. Con el registro de la cita abierto, en la **Barra de comandos**, seleccione el botón **Marcar como completada** para completarla. 
 
-22. Con el registro de la cita abierto, en la **Barra de comandos**, seleccione el botón **Marcar como completada** para completarla. 
+22. Seleccione el botón **Guardar y cerrar** para volver al registro de la cuenta.   
 
-23. Seleccione el botón **Guardar y cerrar** para volver al registro de la cuenta.   
-
-24. Seleccione **Guardar y cerrar** en el registro de la cuenta para salir del registro de la cuenta.   
+23. Seleccione **Guardar y cerrar** en el registro de la cuenta para salir del registro de la cuenta.   
