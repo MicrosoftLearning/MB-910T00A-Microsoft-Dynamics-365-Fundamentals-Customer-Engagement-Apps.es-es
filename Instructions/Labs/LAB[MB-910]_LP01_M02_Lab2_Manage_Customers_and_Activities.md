@@ -2,7 +2,7 @@
 lab:
   title: "Ruta de aprendizaje\_1 - Laboratorio\_1.2: Administrar clientes y actividades"
   learning path: Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps
-  module: 'Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps'
+  module: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 ---
 
 Ruta de aprendizaje 2 - Módulo 2: Describir las actividades compartidas y las opciones de integración en aplicaciones de interacción con el cliente de Dynamics 365
@@ -30,11 +30,11 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
 4. Complete el registro de cuenta como sigue:
 
-    - **Nombre de cuenta**: Contoso Corporate
+    - **Nombre de cuenta:** Contoso Corporate (sus iniciales)
 
-    - **Teléfono:** 888-555-1234
+    - **Teléfono:** 888-555-1234 (sus iniciales)
 
-    - **Dirección 1 Calle 1:** 191 181<sup data-htmlnode="">st</sup> Ave N
+    - **Dirección 1 Calle 1:** 191 181<sup data-htmlnode="">st</sup> Ave N (sus iniciales)
 
     - **Ciudad de dirección 1:** Seattle
 
@@ -48,11 +48,11 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
 7. Complete el registro de cuenta como sigue:
 
-    - **Nombre de cuenta**: Contoso North America
+    - **Nombre de cuenta:** Contoso North America (sus iniciales)
 
-    - **Teléfono:** 888-555-4321
+    - **Teléfono:** 888-555-4321 (sus iniciales)
 
-    - **Dirección 1 – Calle 1**: 187 11<sup data-htmlnode="">th</sup> ST N
+    - **Dirección 1 Calle 1**: 187 11<sup data-htmlnode="">th</sup> ST N (sus iniciales)
 
     - **Ciudad de dirección 1:** Chicago
 
@@ -72,11 +72,11 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
     - **Nombre:** Jackson
 
-    - **Apellido:** Anderson
+    - **Apellidos:** Anderson (sus iniciales)
 
     - **Puesto:** Director ejecutivo
 
-    - **Correo electrónico:** [Jackson@contososample.com](mailto:Jackson@contososample.com)
+    - **Correo electrónico:** [Jackson (sus iniciales)@contososample.com](mailto:Jackson@contososample.com)
 
 13. Seleccione el botón **Guardar y cerrar**.
 
@@ -88,7 +88,7 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
 17. Complete la cita del siguiente modo:
 
-    - **Firmante:** Reunión con Jackson
+    - **Asunto:** Reunión con Jackson (sus iniciales)
 
     - **Hora de inicio:** Mañana a las 10:00
 
