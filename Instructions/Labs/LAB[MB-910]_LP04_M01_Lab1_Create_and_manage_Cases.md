@@ -20,45 +20,43 @@ Ruta de aprendizaje 4 - Módulo 1: Explorar Dynamics 365 Customer Service
 
 2. Con el panel de navegación de la izquierda, seleccione **Casos**.
 
-3. En la **Barra de comandos**, haga clic en **Nuevo** para crear un nuevo registro de caso.
+3.  En la **barra de comandos**, seleccione el botón **+ Nuevo** para crear un nuevo registro de caso. 
 
-4. Complete su nuevo registro de caso de la siguiente manera:
+4.  Complete su nuevo registro de caso de la siguiente manera:
 
     - **Título del caso:** Artículo ha llegado dañado (sus iniciales)
 
     - **Cliente:** George Li
 
-    - **Origen:** Phone
+5.  Haga clic en el botón **Guardar** para guardar el registro y dejarlo abierto. 
 
-5. Haga clic en el botón **Guardar** para guardar el registro y dejarlo abierto.
+6.  En la **Escala de tiempo**, seleccione el **icono +** para crear una nueva actividad. 
 
-6. En la **Escala de tiempo del registro**, haga clic en el **icono +** para agregar una nueva actividad.
+7.  En el menú que aparece, seleccione **Llamada de teléfono**.
 
-7. En el menú que aparece, seleccione **Llamada de teléfono**.
+8.  Establezca el campo **Asunto** en **Devolver llamada** y deje el resto de campos sin modificar.
 
-8. Establezca el campo **Asunto** en **Devolver llamada a George** y deje el resto de campos sin modificar.
-
-9. Haga clic en el botón **Guardar y cerrar**.
+9.  Seleccione el botón **Guardar y cerrar**.
 
 10. En el **proceso de teléfono a caso**, haga clic en la etapa **Identificar**.
 
 11. Haga clic en el botón **Etapa siguiente** para avanzar a la etapa **Investigar**.
 
-12. Haga clic en la **X** de la etapa **Investigar** para cerrar la ventana y poder seguir trabajando.
+12. Selecciona la **X** en la ventana emergente de la fase **Investigar** para seguir trabajando. 
 
-13. En la **Escala de tiempo del registro**, dirija el puntero a la actividad de Llamada de teléfono **Devolver llamada a George** que creó anteriormente. Seleccione el icono de **la marca de verificación** para completar la actividad.
+13. En **Escala de tiempo**, seleccione el menú de puntos suspensivos verticales de **acciones principales** en la actividad **Llamada telefónica** que creó anteriormente. Seleccione **Cerrar actividad** para completar la actividad. 
 
 14. En la ventana **Cerrar llamada de teléfono**, seleccione el botón **Cerrar llamada de teléfono**. 
 
-15. Compruebe que la actividad aparece como **Cerrada**.
+15. Compruebe que la actividad se actualiza a **Cerrado**. 
 
-16. En el **Proceso de teléfono a caso**, seleccione la etapa **Investigar** y después, **Etapa siguiente** para avanzar a la etapa **Resolver**.
+16. En el **Proceso de teléfono a caso**, seleccione la fase **Investigar** y, después, **Etapa siguiente** para avanzar a la etapa **Resolver**.
 
-17. En la etapa **Resolver**, seleccione el botón **Finalizar** para completar el flujo del proceso.
+17. En la etapa **Resolver**, seleccione el botón **Finalizar** para completar el flujo del proceso. 
 
-18. En la **Barra de comandos** del caso, seleccione **Resolver caso**.
+18. En la **Barra de comandos** del caso, seleccione **Resolver caso**. 
 
-19. En la ventana **Resolver caso**, establezca el campo **Resolución** en **Artículo de conocimiento**.
+19. En la ventana **Resolver caso**, establezca el campo **Resolución** en **Artículo de conocimiento**. 
 
-20. Haga clic en el botón **Resolver** para finalizar el proceso.
+20. Haga clic en el botón **Resolver** para finalizar el proceso. 
 
