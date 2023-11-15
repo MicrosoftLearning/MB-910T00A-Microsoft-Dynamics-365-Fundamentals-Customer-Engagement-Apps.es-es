@@ -1,20 +1,20 @@
 ---
 lab:
   title: "Ruta de aprendizaje \_2 - Laboratorio\_2.1: Crear un recorrido del cliente sencillo"
-  learning path: Explore the fundamentals of Dynamics 365 Marketing
-  module: Explore Dynamics 365 Marketing
+  learning path: Explore the fundamentals of Dynamics 365 Customer Insights
+  module: Explore Dynamics 365 Customer Insights
 ---
 
-Ruta de aprendizaje 2 - Módulo 1: Explorar Dynamics 365 Marketing
+Ruta de aprendizaje 2 - Módulo 1: Explorar Dynamics 365 Customer Insights
 ========================
 
 ## Laboratorio de prácticas 2.1: Crear un recorrido del cliente sencillo
 
-**IMPORTANTE**: Instructores, asegúrense de haber completado todos los pasos de configuración definidos en la sección Dynamics 365 Marketing de la Guía de preparación del instructor para asegurarse de que los alumnos puedan completar este laboratorio correctamente.   
+**IMPORTANTE**: Instructores, asegúrense de haber completado todos los pasos de configuración definidos en la sección Dynamics 365 Customer Insights: Recorridos de la Guía de preparación del instructor para asegurarse de que los alumnos puedan completar este laboratorio correctamente.   
 
 ## Objetivos
 
-En este ejercicio comprobará que los recorridos del cliente son un componente clave de Dynamics 365 Marketing. Creará un recorrido del cliente para servir de base a todo esfuerzo de marketing por guiar la ruta que sigue un cliente mientras interactúa con el proceso de marketing de la organización. El objetivo es que cuando el recorrido esté completo, se convierta en ingresos. 
+En este ejercicio comprobará que los recorridos del cliente son un componente clave de Dynamics 365 Customer Insights: Recorridos. Creará un recorrido del cliente para servir de base a todo esfuerzo de marketing por guiar la ruta que sigue un cliente mientras interactúa con el proceso de marketing de la organización. El objetivo es que cuando el recorrido esté completo, se convierta en ingresos. 
 
 ## Configuración del laboratorio
 

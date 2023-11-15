@@ -55,9 +55,9 @@ Durante este ejercicio, creará manualmente un cliente potencial para Jane Ander
 
 6. Realice los pasos siguientes:
 
-    - **Período de tiempo de compra:** Inmediata
+    - **Período de tiempo de compra:** inmediato
 
-    - **Presupuesto estimado:** 50.000$ 
+    - **Presupuesto estimado:** 50 000 USD 
 
     - **Proceso de compra:** Comité
 
@@ -93,7 +93,7 @@ Durante este ejercicio, creará manualmente un cliente potencial para Jane Ander
 
 18. **Coho Technologies** debe seleccionarse en la ventana de buscar registro. Haga clic en el botón **Agregar** para terminar de agregar el competidor.
 
-19. En el flujo del proceso de negocio **Cliente potencial a Oportunidad**, seleccione la etapa **Desarrollar**. 
+19. En el flujo de proceso de negocio **Cliente potencial a oportunidad**, seleccione la fase **Desarrollar**. 
 
 20. Realice los pasos siguientes: 
 
