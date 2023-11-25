@@ -26,13 +26,13 @@ Dynamics 365 Customer Insights - Journeys permite a la organización controlar
 
     - Revisar las condiciones y las acciones
 
-- Administrar los recorridos del cliente  
+- Administrar los recorridos del cliente 
 
-    - Abrir los recorridos del cliente y demostrar que se abre un recorrido del cliente existente  
+    - Abrir los recorridos del cliente y demostrar que se abre un recorrido del cliente existente 
 
     - Visualice los detalles del recorrido del cliente.
 
-    - Resalte el segmento de cliente en uso.  
+    - Resalte el segmento de cliente en uso. 
 
     - Abrir el diseñador de recorrido del cliente
 
@@ -46,13 +46,13 @@ Dynamics 365 Customer Insights - Journeys permite a la organización controlar
 
 - Según el recorrido que ha creado, se les ofrecerá una experiencia de marketing dirigida en función de quiénes son y qué camino elijan al interactuar con el contenido de marketing de la organización. 
 
-    - Cambie al rol de cliente y abra un correo electrónico de marketing predefinido que se haya enviado.   Revise y aproveche los diferentes contenidos del correo electrónico.  
+    - Cambie al rol de cliente y abra un correo electrónico de marketing predefinido que se haya enviado. Revise y aproveche los diferentes contenidos del correo electrónico. 
 
-    - Haga clic en un vínculo del correo electrónico y explore la página web a la que se le envía.  
+    - Haga clic en un vínculo del correo electrónico y explore la página web a la que se le envía. 
 
-    - Interactúe con el contenido de la página y seleccione un vínculo.  
+    - Interactúe con el contenido de la página y seleccione un vínculo. 
 
-- Vuelva al recorrido del cliente y demuestre el seguimiento de los datos y de la información disponible.  
+- Vuelva al recorrido del cliente y demuestre el seguimiento de los datos y de la información disponible. 
 
 2. Administrar y registrarse en eventos desde el portal de administración de eventos
 

@@ -26,7 +26,7 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
 2. Con la navegación de la parte izquierda de la pantalla, seleccione **Cuentas**.
 
-3. En la Barra de comandos, seleccione el botón **Nuevo**.
+3. En la barra de comandos, seleccione el botón **Nuevo**.
 
 4. Complete el registro de cuenta como sigue:
 
@@ -38,13 +38,13 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
     - **Ciudad de dirección 1:** Seattle
 
-    - **Estado o provincia de dirección 1:** Washington
+    - **Dirección 1 estado o provincia:** WA
 
-    - **Código postal de dirección 1:** 98101
+    - **Dirección 1 código postal:** 98101
 
-5. En la Barra de comandos, seleccione el botón **Guardar y cerrar** para guardar y salir del registro de la cuenta.
+5. En la barra de comandos, seleccione el botón **Guardar y cerrar** para guardar y salir del registro de cuenta.
 
-6. En la Barra de comandos, para la lista de cuentas, seleccione de nuevo el botón **Nuevo**.
+6. En la barra de comandos, en la lista de cuentas, seleccione de nuevo el botón **Nuevo**.
 
 7. Complete el registro de cuenta como sigue:
 
@@ -56,7 +56,7 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
     - **Ciudad de dirección 1:** Chicago
 
-    - **Estado o provincia de dirección 1:** Illinois
+    - **Dirección 1 estado o provincia:** IL
 
     - **Código postal de dirección 1:** 60176
 
@@ -68,7 +68,7 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
 11. Seleccione la **Elipsis vertical** y, en el menú que aparece, seleccione **Nuevo contacto**.
 
-12. Con el formulario **Creación rápida de contactos**, complete el contacto de la siguiente manera:
+12. Utilizando el formulario **Contacto de creación rápida**, complete el contacto de la siguiente manera:
 
     - **Nombre:** Jackson
 
@@ -80,7 +80,7 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
 13. Seleccione el botón **Guardar y cerrar**.
 
-14. Justo encima de la subcuadrícula del contacto, seleccione el campo **Contacto principal** y establézcalo como el contacto de **Jackson Anderson** que acaba de crear.
+14. Justo sobre la subcuadrícula Contacto, seleccione el campo **Contacto principal** y establézcalo como el contacto **Jackson Anderson** que acaba de crear.
 
 15. Vaya a **Escala de tiempo del registro** en la mitad de la pantalla y haga clic en el **icono del signo más** para agregar un elemento nuevo.
 
@@ -92,7 +92,7 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
     - **Hora de inicio:** Mañana a las 10:00
 
-    - **Hora de finalización:** Mañana a las 11:00
+    - **Hora de finalización:** mañana a las 11:00 a. m.
 
 18. Seleccione el botón **Guardar y cerrar**.
 
