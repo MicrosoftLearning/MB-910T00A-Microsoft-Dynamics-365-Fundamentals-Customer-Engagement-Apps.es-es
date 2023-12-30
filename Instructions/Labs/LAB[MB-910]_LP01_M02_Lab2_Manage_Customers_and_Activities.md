@@ -42,7 +42,7 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
     - **Dirección 1 código postal:** 98101
 
-5. En la barra de comandos, seleccione el botón **Guardar y cerrar** para guardar y salir del registro de cuenta.
+5. En la barra de comandos, selecciona el botón **Guardar y cerrar** para guardar y salir del registro de cuenta.
 
 6. En la barra de comandos, en la lista de cuentas, seleccione de nuevo el botón **Nuevo**.
 
@@ -86,7 +86,7 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
 16. En el menú que aparece, seleccione **Reunión**.
 
-17. Complete la cita del siguiente modo:
+17. Complete la cita como se muestra a continuación:
 
     - **Asunto:** Reunión con Jackson (sus iniciales)
 

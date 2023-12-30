@@ -1,6 +1,6 @@
 ---
 lab:
-  title: "Ruta de aprendizaje\_4 - Laboratorio de prácticas\_4.1: Crear y administrar casos en Dynamics\_365 Customer Service"
+  title: "Ruta de aprendizaje\_4 - Laboratorio 4.1: Crear y administrar casos en Dynamics\_365 Customer Service"
   learning path: Learn the fundamentals of Dynamics 365 Customer Service
   module: Explore Dynamics 365 Customer Service
 ---

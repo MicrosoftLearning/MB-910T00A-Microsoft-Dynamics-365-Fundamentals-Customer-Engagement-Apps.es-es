@@ -1,6 +1,6 @@
 ---
 lab:
-  title: "Ruta de aprendizaje\_3 - Laboratorio de prácticas 3.1: Crear y administrar una oportunidad en Dynamics\_365 Sales"
+  title: "Ruta de aprendizaje\_3 - Laboratorio 3.1: Crear y administrar una oportunidad en Dynamics\_365 Sales"
   learning path: Explore the fundamentals of Microsoft Dynamics 365 Sales
   module: Explore Dynamics 365 Sales
 ---
@@ -13,7 +13,7 @@ Ruta de aprendizaje 3 - Módulo 1: Explorar Dynamics 365 Sales
 
 ## Objetivos
 
-Durante este ejercicio, creará manualmente un cliente potencial para Jane Anderson. Jane trabaja para una empresa llamada Jim trabaja para una empresa llamada **ABC Consulting**. No solo capturará la información de clientes potenciales en el sistema, sino que aprovechará las herramientas disponibles en Dynamic 365 Sales para calificar al cliente potencial como una oportunidad y trabajarlo hasta cerrar la oportunidad.
+Durante este ejercicio, creará manualmente un cliente potencial para Jane Anderson. Jane trabaja para una empresa llamada Jim trabaja para una empresa llamada **ABC Consulting**. No solo capturarás la información de clientes potenciales en el sistema, sino que aprovecharás las herramientas disponibles en Dynamic 365 Sales para clasificar al cliente potencial como una oportunidad y trabajar en él hasta cerrar la oportunidad.
 
 ## Configuración del laboratorio
 
