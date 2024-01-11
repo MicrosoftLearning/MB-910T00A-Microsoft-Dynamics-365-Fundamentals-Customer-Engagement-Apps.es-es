@@ -90,9 +90,9 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
     - **Asunto:** Reunión con Jackson (sus iniciales)
 
-    - **Hora de inicio:** Mañana a las 10:00
+    - **Hora de inicio**: hoy a las 16:00
 
-    - **Hora de finalización:** mañana a las 11:00 a. m.
+    - **Hora de finalización**: hoy a las 16:30
 
 18. Seleccione el botón **Guardar y cerrar**.
 
