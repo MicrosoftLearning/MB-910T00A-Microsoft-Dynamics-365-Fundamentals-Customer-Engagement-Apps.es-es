@@ -1,6 +1,6 @@
 ---
 lab:
-  title: "Ruta de aprendizaje \_2 - Laboratorio\_2.1: Crear un recorrido del cliente sencillo"
+  title: "Ruta de aprendizaje 2 - Laboratorio\_2.1: Crear un recorrido del cliente sencillo"
   learning path: Explore the fundamentals of Dynamics 365 Customer Insights
   module: Explore Dynamics 365 Customer Insights
 ---
