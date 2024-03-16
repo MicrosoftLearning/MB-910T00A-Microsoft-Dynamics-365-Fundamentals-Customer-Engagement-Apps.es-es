@@ -2,10 +2,10 @@
 lab:
   title: "Ruta de aprendizaje 2 - Laboratorio\_2.1: Crear un recorrido del cliente sencillo"
   learning path: Explore the fundamentals of Dynamics 365 Customer Insights
-  module: Explore Dynamics 365 Customer Insights
+  module: Explore Dynamics 365 Customer Insights - Journeys
 ---
 
-Ruta de aprendizaje 2 - Módulo 1: Explorar Dynamics 365 Customer Insights
+Ruta de aprendizaje 2, módulo 1: Exploración de Dynamics 365 Customer Insights: Recorridos
 ========================
 
 ## Laboratorio de prácticas 2.1: Crear un recorrido del cliente sencillo
@@ -21,28 +21,32 @@ En este ejercicio comprobará que los recorridos del cliente son un componente c
   - **Tiempo estimado**: 10 minutos
 
 ## Instrucciones
-1. Con la navegación de la izquierda, seleccione **Recorridos del cliente** en el grupo **Ejecución de marketing**.
+1. Con el panel de navegación de la izquierda, seleccione **Recorridos** en el grupo**Involucración**.
 
-2. En la barra de comandos, seleccione **Nuevo**.
+1. En la Barra de comandos, seleccione **+ Nuevo recorrido**.
 
-3. En el menú emergente **Plantillas de recorrido del cliente**, seleccione **Omitir** para empezar a crear un nuevo recorrido desde cero.
-4. Seleccione **Establecer público** (o, alternativamente, seleccione **+** ). Compruebe que el **Tipo de origen** está establecido en **Segmento** y seleccione el segmento **Contactos de Fargo**. El primer mosaico se rellena con el nombre del segmento y el panel de **Público** muestra las propiedades del segmento.
+1. Seleccione **Omitir y crear desde cero**
 
-5. Seleccione **+** en el lienzo y luego seleccione **Enviar un correo electrónico** en el menú contextual.
+1. En el menú emergente **Crear recorrido con Copilot**, seleccione **Omitir** **y créelo desde cero**.
 
-6. En la sección **Enviar un correo electrónico**, seleccione **Mensaje de correo electrónico de ejemplo**.
+1. En el campo Nombre del recorrido, escriba Fargo Customer Journey (sus iniciales) 
 
-7. Seleccione la pestaña General situada en la parte superior del registro del recorrido del cliente. Escriba la siguiente información en la pestaña **General**:
+1. En Elija el tipo de recorrido, establezca en Basado en segmentos y seleccione el segmento **Contactos de Fargo**. El primer mosaico se rellena con el nombre del segmento y el panel de **Público** muestra las propiedades del segmento.
 
-    - **Nombre**: Recorrido del cliente de Fargo (sus iniciales) 
+1. En **Seleccionar la frecuencia**, elija **Un recorrido único con una audiencia estática**.
 
-    - **Fecha y hora de inicio**: Escriba la fecha de hoy
+1. Establezca la **fecha de inicio** en **Fecha de mañana**.
 
-    - **Fecha y hora de finalización**: Dentro de un mes
+1. Seleccione el botón **Crear**.
 
-    - **Zona horaria**: Seleccione su zona horaria local
+1. Seleccione el botón **Agregar una acción**.
 
-8. En la Barra de comandos, seleccione **Guardar** para guardar el trabajo que haya realizado hasta el momento.
+1. En el menú que aparece, seleccione **Correo electrónico**.
 
-9. Su recorrido ya está listo para comenzar. Para iniciar el recorrido, publíquelo mediante el botón **Publicar** de la Barra de comandos.
+1. En el panel Propiedades de correo electrónico de la derecha, configure de la siguiente manera:
 
+    - **Seleccione el correo electrónico:** Correo electrónico 
+
+    - **Enviar a:** Correo electrónico
+
+1. El recorrido ya está listo para ponerse en marcha. Para iniciar el recorrido, publíquelo mediante el botón **Publicar** de la Barra de comandos.

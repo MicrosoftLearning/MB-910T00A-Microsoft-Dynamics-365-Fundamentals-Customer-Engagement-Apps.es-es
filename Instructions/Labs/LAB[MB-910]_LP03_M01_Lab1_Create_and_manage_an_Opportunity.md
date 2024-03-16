@@ -23,9 +23,9 @@ Durante este ejercicio, creará manualmente un cliente potencial para Jane Ander
 
 1. Si aún no lo ha hecho, abra la aplicación **Centro de ventas de Dynamics 365**.
 
-2. Con la navegación de la parte izquierda de la pantalla, seleccione **Clientes potenciales**. 
+2. Con la navegación de la parte izquierda de la pantalla, seleccione **Clientes potenciales**.
 
-3. En la vista **Mis clientes potenciales abiertos**, seleccione el botón **Nuevo** para crear un nuevo cliente potencial. 
+3. En la vista **Mis clientes potenciales abiertos**, seleccione el botón **Nuevo** para crear un nuevo cliente potencial.
 
 4. Complete la información **Cliente potencial** de la siguiente manera:
 
@@ -51,67 +51,68 @@ Durante este ejercicio, creará manualmente un cliente potencial para Jane Ander
 
     - **Código postal:** 58102
 
-5. En el proceso de ventas **Cliente potencial a Oportunidad**, seleccione la etapa **Calificar**.
+5. Seleccione el botón **Guardar** para guardar el cliente potencial y dejarlo abierto.
 
-6. Realice los pasos siguientes:
+6. En el proceso de ventas **Cliente potencial a Oportunidad**, seleccione la etapa **Calificar**.
+
+7. Realice los pasos siguientes:
 
     - **Período de tiempo de compra:** inmediato
 
-    - **Presupuesto estimado:** 50 000 USD 
+    - **Presupuesto estimado:** 50 000 USD
 
     - **Proceso de compra:** Comité
 
-7. Cierre el control flotante de la fase **Calificar**. 
+8. Cierre el control flotante de la fase **Calificar**.
 
-8.  En la **barra de comandos**, seleccione el botón **Calificar**. 
+9. En la **barra de comandos**, seleccione el botón **Calificar**.
 
-    **Nota:** Si no ve el botón Calificar, seleccione el botón **Más comandos** (parece tres puntos verticales). 
+    > **Nota:** Si no ve el botón Calificar, seleccione el botón **Más comandos** (parece tres puntos verticales).
 
-    El sistema cerrará el registro **Cliente potencial** y creará un nuevo registro **Oportunidad**. Observe que el flujo de proceso de negocio **Cliente potencial a oportunidad** ha avanzado automáticamente a la fase **Desarrollar**. 
+    El sistema cerrará el registro **Cliente potencial** y creará un nuevo registro **Oportunidad**. Observe que el flujo de proceso de negocio **Cliente potencial a oportunidad** ha avanzado automáticamente a la fase **Desarrollar**.
 
-9. En el **Encabezado de nueva oportunidad** en la parte superior del registro, seleccione la flecha hacia abajo junto al campo **Propietario**. 
+10. En el **Encabezado de nueva oportunidad** en la parte superior del registro, seleccione la flecha hacia abajo junto al campo **Propietario**.
 
-10. Realice los pasos siguientes:
+11. Realice los pasos siguientes:
 
     - **Fecha de cierre estimada:** Dentro de dos días
 
     - **Ingresos estimados:** 50 000 $
-    
-11. En la subcuadrícula **Partes interesadas**, observe que **Jane Anderson** (sus iniciales) ya está definida como parte interesada. 
 
-12. En la subcuadrícula **Equipo de ventas**, seleccione los **Puntos suspensivos verticales**. En el menú que aparece, seleccione **Nueva conexión**. 
+12. En la subcuadrícula **Partes interesadas**, observe que **Jane Anderson** (sus iniciales) ya está definida como parte interesada.
 
-13. Busque y elija su registro de usuario. Una vez completado, haga clic en el botón **Agregar**. 
+13. En la subcuadrícula **Equipo de ventas**, seleccione los **Puntos suspensivos verticales**. En el menú que aparece, seleccione **Nueva conexión**.
 
-14. En la subcuadrícula **Competidores**, seleccione los **puntos suspensivos verticales** (parecen tres puntos verticales). En el menú que aparece, seleccione **Agregar competidor existente**. 
+14. Busque y elija su registro de usuario. Una vez completado, haga clic en el botón **Agregar**.
 
-15. En la pantalla **Buscar registro**, seleccione **Nuevo registro** y luego **Competidores**.
+15. En la subcuadrícula **Competidores**, seleccione los **puntos suspensivos verticales** (parecen tres puntos verticales). En el menú que aparece, seleccione **Agregar competidor existente**.
 
-16. En el formulario **Creación rápida: Competidor**, establece el campo **Nombre** en **Coho Technologies (sus iniciales)** .
+16. En la pantalla **Buscar registro**, seleccione **Nuevo registro** y luego **Competidores**.
 
-17. Seleccione el botón **Guardar y cerrar**.
+17. En el formulario **Creación rápida: Competidor**, establece el campo **Nombre** en **Coho Technologies (sus iniciales)** .
 
-18. **Coho Technologies** debe seleccionarse en la ventana de buscar registro. Haga clic en el botón **Agregar** para terminar de agregar el competidor.
+18. Seleccione el botón **Guardar y cerrar**.
 
-19. En el flujo de proceso de negocio **Cliente potencial a oportunidad**, seleccione la fase **Desarrollar**. 
+19. **Coho Technologies** debe seleccionarse en la ventana de buscar registro. Haga clic en el botón **Agregar** para terminar de agregar el competidor.
 
-20. Realice los pasos siguientes: 
+20. En el flujo de proceso de negocio **Cliente potencial a oportunidad**, seleccione la fase **Desarrollar**.
 
-    - **Identificar partes interesadas**: completado 
+21. Realice los pasos siguientes:
 
-    - **Identificar competidores**:completado 
+    - **Identificar partes interesadas**: completado
 
-21. Haga clic en el botón **Etapa siguiente** para avanzar a la etapa **Proponer**. 
+    - **Identificar competidores**:completado
 
-22. En la fase **Proponer**, marque las cuatro tareas como **completadas**. Seleccione **Fase siguiente**.
+22. Haga clic en el botón **Etapa siguiente** para avanzar a la etapa **Proponer**.
 
-23. En la fase **Cerrar**, marque todas las tareas como **completadas**. 
+23. En la fase **Proponer**, marque las cuatro tareas como **completadas**. Seleccione **Fase siguiente**.
 
-24. Seleccione el botón **Finalizar** en el flujo de proceso de negocio. 
+24. En la fase **Cerrar**, marque todas las tareas como **completadas**.
 
-    Ahora que ha completado el proceso de negocio, debe cerrar la oportunidad.
+25. Seleccione el botón **Finalizar** en el flujo de proceso de negocio.
 
-25. En la **Barra de comandos** de la oportunidad, seleccione el botón **Cerrar como ganada**.
+Ahora que ha completado el proceso de negocio, debe cerrar la oportunidad.
 
-26. En el cuadro de diálogo **Cerrar oportunidad**, seleccione el botón **Aceptar** para terminar de cerrar el registro de oportunidades. 
+26. En la **Barra de comandos** de la oportunidad, seleccione el botón **Cerrar como ganada**.
 
+27. En el cuadro de diálogo **Cerrar oportunidad**, seleccione el botón **Aceptar** para terminar de cerrar el registro de oportunidades.

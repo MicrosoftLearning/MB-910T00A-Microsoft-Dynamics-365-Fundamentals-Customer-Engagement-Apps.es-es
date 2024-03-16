@@ -26,7 +26,7 @@ Ruta de aprendizaje 4 - Módulo 1: Explorar Dynamics 365 Customer Service
 
     - **Título del caso:** Artículo ha llegado dañado (sus iniciales)
 
-    - **Cliente:** George Li
+    - **Cliente:** George Cao
 
 5.  Haga clic en el botón **Guardar** para guardar el registro y dejarlo abierto. 
 
@@ -44,7 +44,7 @@ Ruta de aprendizaje 4 - Módulo 1: Explorar Dynamics 365 Customer Service
 
 12. Selecciona la **X** en la ventana emergente de la fase **Investigar** para seguir trabajando. 
 
-13. En **Escala de tiempo**, seleccione el menú de puntos suspensivos verticales de **acciones principales** en la actividad **Llamada telefónica** que creó anteriormente. Seleccione **Cerrar actividad** para completar la actividad. 
+13. En la **escala de tiempo**, seleccione la actividad **Llamada de teléfono** que creó anteriormente. Seleccione **Cerrar actividad** para completar la actividad. 
 
 14. En la ventana **Cerrar llamada de teléfono**, seleccione el botón **Cerrar llamada de teléfono**. 
 
