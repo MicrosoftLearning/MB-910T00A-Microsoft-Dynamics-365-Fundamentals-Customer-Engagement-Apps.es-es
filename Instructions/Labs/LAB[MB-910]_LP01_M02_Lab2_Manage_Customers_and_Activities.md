@@ -12,7 +12,7 @@ Ruta de aprendizaje 2 - Módulo 2: Describir las actividades compartidas y las
 
 ## Objetivos
 
-En este ejercicio, trabajará con registros comunes que aprovechan todas las aplicaciones de captación de clientes propias. 
+En este ejercicio, trabajará con registros comunes que usan todas las aplicaciones propias de captación de clientes. 
 
 ## Configuración del laboratorio
 
@@ -24,11 +24,11 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
 1. Si aún no está abierta, abra la aplicación **Dynamics 365 Sales Hub**.
 
-2. Con la navegación de la parte izquierda de la pantalla, seleccione **Cuentas**.
+1. Con la navegación de la parte izquierda de la pantalla, seleccione **Cuentas**.
 
-3. En la barra de comandos, seleccione el botón **Nuevo**.
+1. En la barra de comandos, seleccione el botón **Nuevo**.
 
-4. Complete el registro de cuenta como sigue:
+1. Complete el registro de cuenta como sigue:
 
     - **Nombre de cuenta:** Contoso Corporate (sus iniciales)
 
@@ -42,11 +42,11 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
     - **Dirección 1 código postal:** 98101
 
-5. En la barra de comandos, selecciona el botón **Guardar y cerrar** para guardar y salir del registro de cuenta.
+1. En la barra de comandos, selecciona el botón **Guardar y cerrar** para guardar y salir del registro de cuenta.
 
-6. En la barra de comandos, en la lista de cuentas, seleccione de nuevo el botón **Nuevo**.
+1. En la barra de comandos, en la lista de cuentas, seleccione de nuevo el botón **Nuevo**.
 
-7. Complete el registro de cuenta como sigue:
+1. Complete el registro de cuenta como sigue:
 
     - **Nombre de cuenta:** Contoso North America (sus iniciales)
 
@@ -60,15 +60,15 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
     - **Código postal de dirección 1:** 60176
 
-8. Establezca el campo de la **Cuenta primaria** a la cuenta **Contoso Corporate** que creó anteriormente.
+1. Establezca el campo de la **Cuenta primaria** a la cuenta **Contoso Corporate** que creó anteriormente.
 
-9. Haga clic en el botón **Guardar** para guardar la cuenta y dejarla abierta.
+1. Haga clic en el botón **Guardar** para guardar la cuenta y dejarla abierta.
 
-10. Localice la **Subcuadrícula de contactos** en la parte derecha de la pantalla.
+1. Localice la **Subcuadrícula de contactos** en la parte derecha de la pantalla.
 
-11. Seleccione la **Elipsis vertical** y, en el menú que aparece, seleccione **Nuevo contacto**.
+1. Seleccione la **Elipsis vertical** y, en el menú que aparece, seleccione **Nuevo contacto**.
 
-12. Utilizando el formulario **Contacto de creación rápida**, complete el contacto de la siguiente manera:
+1. Utilizando el formulario **Contacto de creación rápida**, complete el contacto de la siguiente manera:
 
     - **Nombre:** Jackson
 
@@ -78,15 +78,15 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
     - **Correo electrónico:** [Jackson (sus iniciales)@contososample.com](mailto:Jackson@contososample.com)
 
-13. Seleccione el botón **Guardar y cerrar**.
+1. Seleccione el botón **Guardar y cerrar**.
 
-14. Justo sobre la subcuadrícula Contacto, seleccione el campo **Contacto principal** y establézcalo como el contacto **Jackson Anderson** que acaba de crear.
+1. Justo sobre la subcuadrícula Contacto, seleccione el campo **Contacto principal** y establézcalo como el contacto **Jackson Anderson** que acaba de crear.
 
-15. Vaya a **Escala de tiempo del registro** en la mitad de la pantalla y haga clic en el **icono del signo más** para agregar un elemento nuevo.
+1. Vaya a **Escala de tiempo del registro** en la mitad de la pantalla y haga clic en el **icono del signo más** para agregar un elemento nuevo.
 
-16. En el menú que aparece, seleccione **Reunión**.
+1. En el menú que aparece, seleccione **Reunión**.
 
-17. Complete la cita como se muestra a continuación:
+1. Complete la cita como se muestra a continuación:
 
     - **Asunto:** Reunión con Jackson (sus iniciales)
 
@@ -94,16 +94,16 @@ En este ejercicio, trabajará con registros comunes que aprovechan todas las apl
 
     - **Hora de finalización**: hoy a las 16:30
 
-18. Seleccione el botón **Guardar y cerrar**.
+1. Seleccione el botón **Guardar y cerrar**.
 
-19. **Guarde y cierre** la cuenta.
+1. **Guarde y cierre** la cuenta.
 
-20. Haga clic para seleccionar la **Cita** y mostrar sus detalles.
+1. Haga clic para seleccionar la **Cita** y mostrar sus detalles.
 
-21. Seleccione el vínculo **Abrir cita**.
+1. Seleccione el vínculo **Abrir registro**.
 
-22. Con el registro de la cita abierto, en la **Barra de comandos**, seleccione el botón **Marcar como completada** para finalizar la cita.
+1. Con el registro de la cita abierto, en la **Barra de comandos**, seleccione el botón **Marcar como completada** para finalizar la cita.
 
-23. Seleccione el botón **Guardar y cerrar** para volver al registro de la cuenta.
+1. Seleccione el botón **Guardar y cerrar** para volver al registro de la cuenta.
 
-24. Seleccione **Guardar y cerrar** en el registro de la cuenta para salir del registro de la cuenta.
+1. Seleccione **Guardar y cerrar** en el registro de la cuenta para salir del registro de la cuenta.
